@@ -1,5 +1,10 @@
 # SD-Hardware-Mods
-Guides and information about various Steam Deck hardware modifications.
+Information and guides about Steam Deck hardware and modifications.
+
+## Hardware modding communities
+- [r/SteamDeckModded Subreddit](https://www.reddit.com/r/SteamDeckModded/)
+- [r/SteamDeck_2 Subreddit](https://www.reddit.com/r/SteamDeck_2/)
+- [Steam Deck Discord - #hardware-mods channel](https://discord.gg/steamdeck)
 
 ## DISCLAIMER - READ FIRST BEFORE MODIFYING ANYTHING
 
