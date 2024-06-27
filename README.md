@@ -1,6 +1,10 @@
 # SD-Hardware-Mods
 Information and guides about Steam Deck hardware and modifications.
 
+## [How To Contribute To This Repository](Contributing.md)
+
+## [Credits And Sources](Credits.md)
+
 ## Hardware modding communities
 - [r/SteamDeckModded Subreddit](https://www.reddit.com/r/SteamDeckModded/)
 - [r/SteamDeck_2 Subreddit](https://www.reddit.com/r/SteamDeck_2/)
@@ -18,18 +22,18 @@ Information and guides about Steam Deck hardware and modifications.
 
 ### LCD Version
 - Easily differentiable older/newer revision by looking at shielding above the motherboard
-- ![Older model and Valve's pre mass production model](images/LCD_Revisions/valve_and_old_lcd.jpg)
+- ![Older model and Valve's pre mass production model](Images/LCD_Revisions/iFixit_Valve_And_Old_LCD.png)
     - Older model and Valve's pre mass production model
-- ![Newer revision with black shielding and other changes](images/LCD_Revisions/newer_lcd.jpg)
+- ![Newer revision with black shielding and other changes](Images/LCD_Revisions/iFixit_Newer_LCD.png)
     - Newer revision with black shielding and other changes
 
-*Credit to iFixit for the images, [(old)](https://www.ifixit.com/News/57101/steam-deck-teardown) - [(new)](https://guide-images.cdn.ifixit.com/igi/l2ABGc6CMQFIytZB.full)*
 ### OLED Version
 - No known revisions yet (?)
 
-### Read more about both here
-- [LCD Deck revisions and differences](markdown/Revisions/LCD_Revisions.md)
-- [OLED Deck revisions and differences](markdown/Revisions/OLED_Revisions.md)
+### More information about both can be found here
+- [LCD Deck revisions and differences](Markdown/Revisions/LCD_Revisions.md)
+- [OLED Deck revisions and differences](Markdown/Revisions/OLED_Revisions.md)
+- [Comparison video between LCD and OLED Deck hardware by Gamers Nexus](https://www.youtube.com/watch?v=9jhRh11bTRA)
 
 ## Replacement Parts
 
@@ -60,10 +64,14 @@ Information and guides about Steam Deck hardware and modifications.
     - Samsung
     - SanDisk
 - Example for a good SD Card
-![SanDisk 256GB U3 A2 MicroSD Card](https://www.westerndigital.com/content/dam/store/en-us/assets/products/memory-cards/extreme-uhs-i-microsd/extreme-uhs-i-microsd-256gb.png.wdthumb.1280.1280.webp)
+    - ![Samsung EVO Plus 256GB MicroSD Card](Images/Samsung_EVO_PLUS_MicroSD.png)
 
 #### SSD Upgrade / Swap
 - The SSD should be single sided, NVMe M.2 2230
+- Lower power consumption is better
+    - More battery life
+    - Less heat
+    - Less likely to cause issues with other components
 
 ---
 
@@ -84,13 +92,18 @@ Information and guides about Steam Deck hardware and modifications.
 ---
 
 ### Screens & Screen Protectors
+
+#### Screen Upgrades
 - [DeckHD (LCD)](https://www.deckhd.com/)
     - Needs custom BIOS
     - 1920x1200
     - Higher resolution results in less performance and battery life
     - Slightly better colors
     - Anti-glare coating
+
+#### Screen Protectors
 - [Anti-glare Screen Protector vs Glossy Screen Comparison](https://www.reddit.com/r/SteamDeck_2/comments/1bbhsdg/antiglare_glossy_screen_protectors_comparison/)
+
 ---
 
 ### Cooling
@@ -98,9 +111,14 @@ Information and guides about Steam Deck hardware and modifications.
 #### Thermal paste / pads
 - Honeywell PTM 7950
 
+#### Fans
+
+#### Heatsinks
+
 ---
 
 ### Other Accessories
 - DeckMate
 - Joystick grips
 - Touchpad skins
+- Docks
