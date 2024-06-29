@@ -46,7 +46,7 @@ Information and guides about Steam Deck hardware and modifications.
 
 ### Full Shell Or Backplate Swap
 - [ExtremeRate](https://extremerate.com/collections/steam-deck-shells)
-- Jsaux
+- [Jsaux](https://jsaux.com/collections/transparent-cover)
 
 ### Buttons
 - [ExtremeRate colored & transparent buttons](https://extremerate.com/collections/steam-deck-buttons)
@@ -63,7 +63,20 @@ Information and guides about Steam Deck hardware and modifications.
 ### [Inputs](Markdown/Inputs.md)
 
 ## Other Accessories
-- DeckMate
+- [DeckMate - Backplate Extensions](https://getmechanism.com/collections/shop-mechanism/deckmate)
+- Back Button Extensions
+    - [Playvital](https://playvital.com/collections/back-button-enhancement)
+    - [Skull&Co.](https://skullnco.com/collections/steam-deck/products/back-button-enhancement-set-for-steam-deck-4pcs)
+- Trigger And Shoulder Button Extensions
+    - [Playvital](https://playvital.com/collections/steam-deck-triggers-extenders)
 - Joystick grips
-- Touchpad skins
+    - [Playvital](https://playvital.com/collections/steam-deck-thumb-grip)
+    - [Skull&Co.](https://skullnco.com/collections/steam-deck/products/thumb-grip-set-for-steam-deck)
+- Shell / Touchpad Grips
+    - [Playvital](https://playvital.com/collections/steam-deck-controller-grip)
+- Silicone Joystick Rings
+    - [Playvital](https://playvital.com/collections/steam-deck-control-precision-rings)
 - Docks
+    - [Valve's Steam Deck Dock](https://www.steamdeck.com/en/dock)
+        - Most likely needs an adapter if used with a case on
+        - Example adapter: [Project Killswitch - Steam Deck Dock Adapter From Dbrand](https://www.printables.com/model/411302-project-killswitch-steam-deck-dock-adapter)
