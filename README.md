@@ -5,7 +5,7 @@ Information and guides about Steam Deck hardware and modifications.
 
 ## [Credits And Sources](Credits.md)
 
-## Hardware modding communities
+## Hardware Modding Communities
 - [r/SteamDeckModded Subreddit](https://www.reddit.com/r/SteamDeckModded/)
 - [r/SteamDeck_2 Subreddit](https://www.reddit.com/r/SteamDeck_2/)
 - [Steam Deck Discord - #hardware-mods channel](https://discord.gg/steamdeck)
@@ -30,9 +30,9 @@ Information and guides about Steam Deck hardware and modifications.
 ### OLED Version
 - No known revisions yet (?)
 
-### More information about both can be found here
-- [LCD Deck revisions and differences](Markdown/Revisions/LCD_Revisions.md)
-- [OLED Deck revisions and differences](Markdown/Revisions/OLED_Revisions.md)
+### More Information About Both Can Be Found Here
+- [LCD Deck revisions and differences](Markdown/LCD_Revisions.md)
+- [OLED Deck revisions and differences](Markdown/OLED_Revisions.md)
 - [Comparison video between LCD and OLED Deck hardware by Gamers Nexus](https://www.youtube.com/watch?v=9jhRh11bTRA)
 
 ## Replacement Parts
@@ -54,70 +54,15 @@ Information and guides about Steam Deck hardware and modifications.
 
 ## Hardware Upgrades
 
-### Storage / SSD Upgrades
+### [Storage Modifications (SSD And MicroSD)](Markdown/Storage.md)
 
-#### Micro SD Card Guide
-- UHS Speed Class 3 - U3
-- Application Performance Class 2 - A2
-- Slower cards might struggle with bigger games
-- Commonly recommended brands:
-    - Samsung
-    - SanDisk
-- Example for a good SD Card
-    - ![Samsung EVO Plus 256GB MicroSD Card](Images/Samsung_EVO_PLUS_MicroSD.png)
+### [Screen & Screen Protectors](Markdown/Screen.md)
 
-#### SSD Upgrade / Swap
-- The SSD should be single sided, NVMe M.2 2230
-- Lower power consumption is better
-    - More battery life
-    - Less heat
-    - Less likely to cause issues with other components
+### [Cooling](Markdown/Cooling.md)
 
----
+### [Inputs](Markdown/Inputs.md)
 
-### Inputs
-
-#### Hall Effect Joysticks
-- Gulikit
-    - [LCD version](https://www.gulikit.com/productinfo/1026071.html)
-    - [OLED version](https://www.gulikit.com/productinfo/1215825.html)
-    - Both have issues with outer deadzone*
-- ElecGear (Only LCD version?)
-    - Doesn't have outer deadzone issue*
-- [*More information about the two](https://www.reddit.com/r/SteamDeck/comments/15c4ppn/comment/jwfxsxt/)
-
-#### Clicky Buttons
-- [ExtremeRate clicky buttons (LCD & OLED)](https://extremerate.com/collections/for-steam-deck-clicky-kit)
-
----
-
-### Screens & Screen Protectors
-
-#### Screen Upgrades
-- [DeckHD (LCD)](https://www.deckhd.com/)
-    - Needs custom BIOS
-    - 1920x1200
-    - Higher resolution results in less performance and battery life
-    - Slightly better colors
-    - Anti-glare coating
-
-#### Screen Protectors
-- [Anti-glare Screen Protector vs Glossy Screen Comparison](https://www.reddit.com/r/SteamDeck_2/comments/1bbhsdg/antiglare_glossy_screen_protectors_comparison/)
-
----
-
-### Cooling
-
-#### Thermal paste / pads
-- Honeywell PTM 7950
-
-#### Fans
-
-#### Heatsinks
-
----
-
-### Other Accessories
+## Other Accessories
 - DeckMate
 - Joystick grips
 - Touchpad skins
