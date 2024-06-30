@@ -31,6 +31,8 @@ Information and guides about Steam Deck hardware and modifications.
 - No known revisions yet (?)
 
 ### More Information About Both Can Be Found Here
+- [LCD Deck Specifications](https://www.steamdeck.com/en/tech/deck)
+- [OLED Deck Specifications](https://www.steamdeck.com/en/tech/oled)
 - [LCD Deck revisions and differences](Markdown/LCD_Revisions.md)
 - [OLED Deck revisions and differences](Markdown/OLED_Revisions.md)
 - [Comparison video between LCD and OLED Deck hardware by Gamers Nexus](https://www.youtube.com/watch?v=9jhRh11bTRA)
