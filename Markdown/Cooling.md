@@ -11,3 +11,7 @@
 - [Thermal block](https://www.reddit.com/r/SteamDeckModded/comments/14uftr6/thermal_block_mod/)
 - [Copper sheets](https://www.reddit.com/r/SteamDeckModded/comments/16bjg9n/whole_lot_of_copper_and_ptm7950/)
     - [Copper sheets update post](https://www.reddit.com/r/SteamDeckModded/comments/16caub6/update_whole_lot_of_copper_and_p7950/)
+
+## Backplate swaps
+- Aluminium backplate (Aliexpress)
+- Jsaux backplates with extra holes and "heatsink"
