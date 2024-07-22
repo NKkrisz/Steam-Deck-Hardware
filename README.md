@@ -64,6 +64,8 @@ Information and guides about Steam Deck hardware and modifications.
 
 ### [Inputs](Markdown/Inputs.md)
 
+### [Rumble](https://github.com/dawidmpunkt/rumble-for-steamdeck)
+
 ## Other Accessories
 - [DeckMate - Backplate Extensions](https://getmechanism.com/collections/shop-mechanism/deckmate)
 - Back Button Extensions
