@@ -50,9 +50,10 @@ Information and guides about Steam Deck hardware and modifications.
 - [ExtremeRate](https://extremerate.com/collections/steam-deck-shells)
 - [Jsaux](https://jsaux.com/collections/transparent-cover)
 
-### Buttons
+### Inputs
 - [ExtremeRate colored & transparent buttons](https://extremerate.com/collections/steam-deck-buttons)
 - Etsy stores' resin or other buttons
+- [Joystick Cap Painting](https://www.youtube.com/watch?v=TbqEUB3BqjA)
 
 ## Hardware Upgrades
 
