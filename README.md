@@ -37,6 +37,8 @@ Information and guides about Steam Deck hardware and modifications.
 - [OLED Deck revisions and differences](Markdown/OLED_Revisions.md)
 - [Comparison video between LCD and OLED Deck hardware by Gamers Nexus](https://www.youtube.com/watch?v=9jhRh11bTRA)
 
+## [Recommended Tools For Repairing / Modding](Markdown/Tools.md)
+
 ## Replacement Parts
 
 ### [iFixit (Official Valve partner)](https://store.steampowered.com/news/app/1675200/view/3216144458749237711)
