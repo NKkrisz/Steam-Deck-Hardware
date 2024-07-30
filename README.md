@@ -87,3 +87,5 @@ Information and guides about Steam Deck hardware and modifications.
     - [Valve's Steam Deck Dock](https://www.steamdeck.com/en/dock)
         - Most likely needs an adapter if used with a case on
         - Example adapter: [Project Killswitch - Steam Deck Dock Adapter From Dbrand](https://www.printables.com/model/411302-project-killswitch-steam-deck-dock-adapter)
+
+## [Steam Deck - Basic Use & Troubleshooting Guide (Made By Valve)](https://help.steampowered.com/en/faqs/view/69E3-14AF-9764-4C28)
