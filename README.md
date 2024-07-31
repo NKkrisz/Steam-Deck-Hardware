@@ -63,11 +63,14 @@ Information and guides about Steam Deck hardware and modifications.
 
 ### [Screen & Screen Protectors](Markdown/Screen.md)
 
+### [Tracking Device (eg. AirTag)](https://www.reddit.com/r/SteamDeck/comments/1aojmq8/added_a_slim_airtag_to_my_steam_deck/)
+
 ### [Cooling](Markdown/Cooling.md)
 
 ### [Inputs](Markdown/Inputs.md)
 
 ### [Rumble](https://github.com/dawidmpunkt/rumble-for-steamdeck)
+
 
 ## Other Accessories
 - [DeckMate - Backplate Extensions](https://getmechanism.com/collections/shop-mechanism/deckmate)
@@ -87,5 +90,8 @@ Information and guides about Steam Deck hardware and modifications.
     - [Valve's Steam Deck Dock](https://www.steamdeck.com/en/dock)
         - Most likely needs an adapter if used with a case on
         - Example adapter: [Project Killswitch - Steam Deck Dock Adapter From Dbrand](https://www.printables.com/model/411302-project-killswitch-steam-deck-dock-adapter)
+
+## Fully Transformed Steam Deck Examples
+- [Tablet / Switch Mod](https://www.reddit.com/r/SteamDeckModded/comments/17q4y8q/steamdeck_tablet_mod_and_3d_files_stl_and_step/)
 
 ## [Steam Deck - Basic Use & Troubleshooting Guide (Made By Valve)](https://help.steampowered.com/en/faqs/view/69E3-14AF-9764-4C28)
