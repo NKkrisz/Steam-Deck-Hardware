@@ -71,6 +71,7 @@ Information and guides about Steam Deck hardware and modifications.
 
 ### [Rumble](https://github.com/dawidmpunkt/rumble-for-steamdeck)
 
+### [Dual Battery](https://www.reddit.com/r/SteamDeck/comments/15r2ffl/steam_deck_duel_battery_upgrade/)
 
 ## Other Accessories
 - [DeckMate - Backplate Extensions](https://getmechanism.com/collections/shop-mechanism/deckmate)
@@ -93,5 +94,10 @@ Information and guides about Steam Deck hardware and modifications.
 
 ## Fully Transformed Steam Deck Examples
 - [Tablet / Switch Mod](https://www.reddit.com/r/SteamDeckModded/comments/17q4y8q/steamdeck_tablet_mod_and_3d_files_stl_and_step/)
+- [Giant 4K Screen](https://www.reddit.com/r/SteamDeck/comments/177ffd8/my_13inch_4k_oled_steam_deck/)
+- [Half Life Edition](https://www.reddit.com/r/SteamDeckModded/comments/1dd7ymu/steamdeck_oled_half_life_ver/)
+- [Portal Edition](https://www.reddit.com/r/SteamDeckModded/comments/1bib04o/introducing_the_steam_deck_oled_portal_edition/)
+- [Fully Red](https://www.reddit.com/r/SteamDeck/comments/1cialbj/great_never_again/)
+- [GabeCube](https://www.reddit.com/r/SteamDeck/comments/1crzpaq/my_gabecube_is_finally_complete_switch_2_looking/)
 
 ## [Steam Deck - Basic Use & Troubleshooting Guide (Made By Valve)](https://help.steampowered.com/en/faqs/view/69E3-14AF-9764-4C28)
