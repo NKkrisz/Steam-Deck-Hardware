@@ -93,6 +93,8 @@ Information and guides about Steam Deck hardware and modifications.
         - Example adapter: [Project Killswitch - Steam Deck Dock Adapter From Dbrand](https://www.printables.com/model/411302-project-killswitch-steam-deck-dock-adapter)
 
 ## Fully Transformed Steam Deck Examples
+- [RAM, Wifi, Shell, Joystick And Screen Upgrade](https://www.youtube.com/watch?v=HW1yAWZjGrk)
+    - Possible OLED Screen Swap For LCD Decks In The Future?
 - [Tablet / Switch Mod](https://www.reddit.com/r/SteamDeckModded/comments/17q4y8q/steamdeck_tablet_mod_and_3d_files_stl_and_step/)
 - [Giant 4K Screen](https://www.reddit.com/r/SteamDeck/comments/177ffd8/my_13inch_4k_oled_steam_deck/)
 - [Half Life Edition](https://www.reddit.com/r/SteamDeckModded/comments/1dd7ymu/steamdeck_oled_half_life_ver/)
