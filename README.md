@@ -12,10 +12,12 @@ Information and guides about Steam Deck hardware and modifications.
 
 ## DISCLAIMER - READ FIRST BEFORE MODIFYING ANYTHING
 
-- **TAKE OUT THE SD CARD BEFORE OPENING THE STEAM DECK OR IT WILL BREAK!!!**
-- **VALVE ALSO RECOMMENDS PUTTING THE DEVICE INTO BATTERY STORAGE MODE FOR REPAIRS!!!**
+- **You can see your Deck's original parts here (Select matching serial number from the backplate):**
+    - https://store.steampowered.com/account/hardwareused
+- **VALVE RECOMMENDS PUTTING THE DEVICE INTO BATTERY STORAGE MODE FOR REPAIRS!!!**
     - [How to turn on battery storage mode](https://www.ifixit.com/Guide/How+to+Enable+Steam+Deck+Battery+Storage+Mode/149962)
         - **MAKE SURE THE BATTERY IS BELOW 80% BEFORE PUTTING IT INTO BATTERY STORAGE MODE, THE LOWER THE BETTER** (though full discharge isn't recommended)
+- **TAKE OUT THE SD CARD BEFORE OPENING THE STEAM DECK OR IT WILL BREAK!!!**
 - **DISCONNECT THE BATTERY AFTER TAKING OFF THE SHIELDING!!!**
 
 ## Different Steam Deck Versions, Revisions And Differences
