@@ -5,10 +5,11 @@ Information and guides about Steam Deck hardware and modifications.
 
 ## [Credits And Sources](Credits.md)
 
-## Hardware Modding Communities
+## Hardware Modding Communities / Resources
 - [r/SteamDeckModded Subreddit](https://www.reddit.com/r/SteamDeckModded/)
 - [r/SteamDeck_2 Subreddit](https://www.reddit.com/r/SteamDeck_2/)
 - [Steam Deck Discord - #hardware-mods channel](https://discord.gg/steamdeck)
+- [Stanto's Website (Active Community Member On Steam Deck Discord)](https://www.stanto.com/)
 
 ## DISCLAIMER - READ FIRST BEFORE MODIFYING ANYTHING
 
@@ -61,19 +62,23 @@ Information and guides about Steam Deck hardware and modifications.
 
 ## Hardware Upgrades
 
-### [Storage Modifications (SSD And MicroSD)](Markdown/Storage.md)
+### [Wireless Connectivity (Wifi And Bluetooth)](Markdown/Wireless.md)
+
+### [Storage (SSD And MicroSD)](Markdown/Storage.md)
 
 ### [Screen & Screen Protectors](Markdown/Screen.md)
 
 ### [Tracking Device (eg. AirTag)](https://www.reddit.com/r/SteamDeck/comments/1aojmq8/added_a_slim_airtag_to_my_steam_deck/)
 
-### [Cooling](Markdown/Cooling.md)
+### [Memory / RAM](Markdown/Memory.md)
 
-### [Inputs](Markdown/Inputs.md)
+### [Dual Battery](https://www.reddit.com/r/SteamDeck/comments/15r2ffl/steam_deck_duel_battery_upgrade/)
+
+### [Cooling](Markdown/Cooling.md)
 
 ### [Rumble](https://github.com/dawidmpunkt/rumble-for-steamdeck)
 
-### [Dual Battery](https://www.reddit.com/r/SteamDeck/comments/15r2ffl/steam_deck_duel_battery_upgrade/)
+### [Inputs](Markdown/Inputs.md)
 
 ## Other Accessories
 - [DeckMate - Backplate Extensions](https://getmechanism.com/collections/shop-mechanism/deckmate)
