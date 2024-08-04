@@ -24,11 +24,11 @@ Information and guides about Steam Deck hardware and modifications.
 ## Different Steam Deck Versions, Revisions And Differences
 
 ### LCD Version
-- Easily differentiable older/newer revision by looking at shielding above the motherboard
-- ![Older model and Valve's pre mass production model](Images/LCD_Revisions/iFixit_Valve_And_Old_LCD.png)
-    - Older model and Valve's pre mass production model
-- ![Newer revision with black shielding and other changes](Images/LCD_Revisions/iFixit_Newer_LCD.png)
-    - Newer revision with black shielding and other changes
+- Easily differentiable older / newer revision by looking at shielding above the motherboard
+
+|![Older model and Valve's pre mass production model](Images/LCD_Revisions/iFixit_Valve_And_Old_LCD.png) | **Older model and Valve's pre mass production model** |
+|---|---|
+|![Newer revision with black shielding and other changes](Images/LCD_Revisions/iFixit_Newer_LCD.png) | **Newer revision with black shielding and other changes** |
 
 ### OLED Version
 - No known revisions yet (?)
