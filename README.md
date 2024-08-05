@@ -1,5 +1,6 @@
-# SD-Hardware-Mods
-Information and guides about Steam Deck hardware and modifications.
+# Steam-Deck-Hardware
+**Information and guides about Steam Deck hardware and modifications.**  
+**This project isn't associated with Valve and modifying your device will / may void your warranty.**
 
 ## [How To Contribute To This Repository](Contributing.md)
 
