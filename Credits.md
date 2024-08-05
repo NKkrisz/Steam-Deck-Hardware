@@ -8,7 +8,7 @@
 - Valve's old-, launch- and current revision LCD Deck
     - [Old And Launch](https://www.ifixit.com/News/57101/steam-deck-teardown) - [Current](https://guide-images.cdn.ifixit.com/igi/l2ABGc6CMQFIytZB.full)
 
-## Other Information
+## Hardware Information
 
 ### [Steam Deck Site](https://www.steamdeck.com)
 
@@ -17,3 +17,8 @@
 ### [r/SteamDeck_2 Subreddit](https://www.reddit.com/r/SteamDeck_2/)
 
 ### [Steam Deck Discord](https://discord.gg/steamdeck)
+
+### People
+- Stanto (Discord, [Website](https://www.stanto.com/))
+- Blazini36 (Discord, [Youtube](https://www.youtube.com/@blazini))
+- Bootifulduk (Discord, aka. BDuk)
