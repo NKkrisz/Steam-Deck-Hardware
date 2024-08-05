@@ -1,4 +1,4 @@
-# LCD Deck revisions and differences
+# LCD Deck Revisions And Differences
 [Back To Main File](../README.md)
 
 ## Cooling

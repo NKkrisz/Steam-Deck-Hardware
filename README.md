@@ -2,7 +2,7 @@
 **Information and guides about Steam Deck hardware and modifications.**  
 **This project isn't associated with Valve and modifying your device will / may void your warranty.**
 
-## 🧑‍💻 [How To Contribute To This Repository](Contributing.md) | [Credits And Sources](Credits.md) 🧑‍💻
+## 🧑‍💻 [How To Contribute To This Repository](Markdown/Contributing.md) | [Credits And Sources](Markdown/Credits.md) 🧑‍💻
 
 ## 💵 How To Support Me (NKkrisz) And This Repository 💵
 - Consider donating by clicking the button below:  
