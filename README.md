@@ -1,6 +1,7 @@
 # Steam-Deck-Hardware
 **Information and guides about Steam Deck hardware and modifications.**  
-**This project isn't associated with Valve and modifying your device will / may void your warranty.**
+**This project isn't associated with Valve and modifying your device will / may void your warranty.**  
+**None of the links are affiliated in any way or are included because of external payment.**
 
 ## 🧑‍💻 [How To Contribute To This Repository](Markdown/Contributing.md) | [Credits And Sources](Markdown/Credits.md) 🧑‍💻
 
