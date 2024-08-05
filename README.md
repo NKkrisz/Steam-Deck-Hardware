@@ -67,6 +67,8 @@
 - Etsy stores' resin or other buttons
 - [Joystick Cap Painting](https://www.youtube.com/watch?v=TbqEUB3BqjA)
 
+### Skins / Stickers
+
 ## 🪛 Hardware Upgrades 🪛
 
 ### [Wireless Connectivity (Wifi And Bluetooth)](Markdown/Wireless.md)
