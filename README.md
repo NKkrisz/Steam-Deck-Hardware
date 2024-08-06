@@ -3,9 +3,9 @@
 **This project isn't associated with Valve and modifying your device will / may void your warranty.**  
 **None of the links are affiliated in any way or are included because of external payment.**
 
-## 🧑‍💻 [How To Contribute To This Repository](Markdown/Contributing.md) | [Credits And Sources](Markdown/Credits.md) 🧑‍💻
+## 🧑‍💻 [How To Contribute To This Repository](Markdown/Contributing.md) | [Credits And Sources](Markdown/Credits.md)
 
-## 💵 How To Support Me (NKkrisz) And This Repository 💵
+## 💵 How To Support Me (NKkrisz) And This Repository
 - Consider donating by clicking the button below:  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nkkrisz)  
 - By doing so, I might be able to:
@@ -13,13 +13,13 @@
     - Upgrade to an OLED Deck which would enable further research
     - Buy more expensive hardware for testing or for modifying Steam Decks
 
-## 👥 Hardware Modding Communities / Resources 👥
+## 👥 Hardware Modding Communities / Resources
 - [r/SteamDeckModded Subreddit](https://www.reddit.com/r/SteamDeckModded/)
 - [r/SteamDeck_2 Subreddit](https://www.reddit.com/r/SteamDeck_2/)
 - [Steam Deck Discord - #hardware-mods channel](https://discord.gg/steamdeck)
 - [Stanto's Website (Active Community Member On Steam Deck Discord)](https://www.stanto.com/)
 
-## ⚠️ DISCLAIMER - READ FIRST BEFORE MODIFYING ANYTHING ⚠️
+## ⚠️ DISCLAIMER - READ FIRST BEFORE MODIFYING ANYTHING
 - **Modifying your device will / may void your warranty!!!**
 - **You can see your Deck's original parts here (Select matching serial number from the backplate):**
     - https://store.steampowered.com/account/hardwareused
@@ -29,7 +29,7 @@
 - **TAKE OUT THE SD CARD BEFORE OPENING THE STEAM DECK OR IT WILL BREAK!!!**
 - **DISCONNECT THE BATTERY AFTER TAKING OFF THE SHIELDING!!!**
 
-## ⚙️ Different Steam Deck Options, Revisions And Differences ⚙️
+## ⚙️ Different Steam Deck Options, Revisions And Differences
 
 ### LCD Version
 - Easily differentiable older / newer revision by looking at shielding above the motherboard
@@ -48,16 +48,16 @@
 - [OLED Deck revisions and differences](Markdown/OLED_Revisions.md)
 - [Comparison video between LCD and OLED Deck hardware by Gamers Nexus](https://www.youtube.com/watch?v=9jhRh11bTRA)
 
-## [🧰 Recommended Tools For Repairing / Modding 🧰](Markdown/Tools.md)
+## [🧰 Recommended Tools For Repairing / Modding](Markdown/Tools.md)
 
-## 🛠️ Replacement Parts 🛠️
+## 🛠️ Replacement Parts
 
 ### [iFixit (Official Valve partner)](https://store.steampowered.com/news/app/1675200/view/3216144458749237711)
 - [iFixit US](https://www.ifixit.com/Parts/Steam_Deck)
 - [iFixit EU](https://eustore.ifixit.com/collections/steam-deck-parts)
 - [iFixit AUS](https://australia.ifixit.com/collections/steam-deck-parts)
 
-## ✨ Cosmetic Upgrades ✨
+## ✨ Cosmetic Upgrades
 
 ### Full Shell Or Backplate Swap
 - [ExtremeRate](https://extremerate.com/collections/steam-deck-shells)
@@ -70,7 +70,7 @@
 
 ### Skins / Stickers
 
-## 🪛 Hardware Upgrades 🪛
+## 🪛 Hardware Upgrades
 
 ### [Wireless Connectivity (Wifi And Bluetooth)](Markdown/Wireless.md)
 
@@ -90,7 +90,7 @@
 
 ### [Inputs](Markdown/Inputs.md)
 
-## 🕹️ Other Accessories 🕹️
+## 🕹️ Other Accessories
 - [DeckMate - Backplate Extensions](https://getmechanism.com/collections/shop-mechanism/deckmate)
 - Back Button Extensions
     - [Playvital](https://playvital.com/collections/back-button-enhancement)
@@ -109,7 +109,7 @@
         - Most likely needs an adapter if used with a case on
         - Example adapter: [Project Killswitch - Steam Deck Dock Adapter From Dbrand](https://www.printables.com/model/411302-project-killswitch-steam-deck-dock-adapter)
 
-## 🎮 Fully Transformed Steam Deck Examples 🎮
+## 🎮 Fully Transformed Steam Deck Examples
 - [RAM, Wifi, Shell, Joystick And Screen Upgrade](https://www.youtube.com/watch?v=HW1yAWZjGrk)
     - Possible OLED Screen Swap For LCD Decks In The Future?
 - [Tablet / Switch Mod](https://www.reddit.com/r/SteamDeckModded/comments/17q4y8q/steamdeck_tablet_mod_and_3d_files_stl_and_step/)
@@ -119,4 +119,4 @@
 - [Fully Red](https://www.reddit.com/r/SteamDeck/comments/1cialbj/great_never_again/)
 - [GabeCube](https://www.reddit.com/r/SteamDeck/comments/1crzpaq/my_gabecube_is_finally_complete_switch_2_looking/)
 
-## [🧑‍🔧 Steam Deck - Basic Use & Troubleshooting Guide (Made By Valve) 🧑‍🔧](https://help.steampowered.com/en/faqs/view/69E3-14AF-9764-4C28)
+## [🧑‍🔧 Steam Deck - Basic Use & Troubleshooting Guide (Made By Valve)](https://help.steampowered.com/en/faqs/view/69E3-14AF-9764-4C28)
