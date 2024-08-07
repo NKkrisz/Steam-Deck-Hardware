@@ -2,8 +2,8 @@
 [Back To Main File](../README.md)
 
 ## Requirements
-- Knowledge about BGA soldering
-- Proper tools for BGA soldering
+- Knowledge about SMT soldering
+- Proper tools for SMT soldering
 
 ### LCD Deck
 - Tested Modules:
