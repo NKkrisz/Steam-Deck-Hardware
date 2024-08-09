@@ -5,10 +5,16 @@
 - Gulikit
     - [LCD version](https://www.gulikit.com/productinfo/1026071.html)
     - [OLED version](https://www.gulikit.com/productinfo/1215825.html)
-    - Both have issues with outer deadzone*
-- ElecGear (Only LCD version?)
-    - Doesn't have outer deadzone issue*
-- [*More information about the two](https://www.reddit.com/r/SteamDeck/comments/15c4ppn/comment/jwfxsxt/)
+    - Both have issues with outer deadzone being square
+- ElecGear (Only For LCD)
+    - Might have issues with deadzones?
+    - Calibration issues when pressing joysticks in a certain way? (Read reviews)
+- [More information about the two / comparison](https://www.reddit.com/r/SteamDeck/comments/15c4ppn/comment/jwfxsxt/)
+- HandheldDIY (Only For OLED)
+    - [Tight (Increased rotational resistance)](https://www.handhelddiy.com/products/steam-deck-oled-tighter-hall-joystick?variant=49363761430838)
+    - [Standard](https://www.handhelddiy.com/products/steam-deck-oled-tighter-hall-joystick?variant=49363761398070)
+    - Joystick caps have matte surface
+    - Calibration on the joystick modules
 
 ## Clicky Buttons
 - [ExtremeRate clicky buttons (LCD & OLED)](https://extremerate.com/collections/for-steam-deck-clicky-kit)
