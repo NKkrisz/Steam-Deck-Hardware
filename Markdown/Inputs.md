@@ -18,3 +18,6 @@
 
 ## Clicky Buttons
 - [ExtremeRate clicky buttons (LCD & OLED)](https://extremerate.com/collections/for-steam-deck-clicky-kit)
+
+## Joystick Cap Swap
+- *Not Tested Yet - Basically OLED Joystick Caps Soldered To LCD Joystick Modules To Provide Better Grip And Look Better*
