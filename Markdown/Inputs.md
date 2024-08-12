@@ -21,3 +21,8 @@
 
 ## Joystick Cap Swap
 - *Not Tested Yet - Basically OLED Joystick Caps Soldered To LCD Joystick Modules To Provide Better Grip And Look Better*
+1. Buy OLED / LCD Hall Effect Sticks Depending On Witch One You Want (eg. Gulikit, sadly joystick caps only aren't available anywhere)
+2. Desolder joystick caps from hall effect sticks
+3. Desolder joystick caps from original sticks
+4. Solder joystick caps from the hall effect stick to the original ones
+5. Test if everything works correctly
