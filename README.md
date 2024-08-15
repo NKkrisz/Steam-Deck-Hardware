@@ -84,6 +84,8 @@
 
 ### [Dual Battery](https://www.reddit.com/r/SteamDeck/comments/15r2ffl/steam_deck_duel_battery_upgrade/)
 
+### [Dual Screen](https://www.reddit.com/r/SteamDeckModded/comments/1en98vt/my_take_on_dual_screen/)
+
 ### [Cooling](Markdown/Cooling.md)
 
 ### [Rumble](https://github.com/dawidmpunkt/rumble-for-steamdeck)
