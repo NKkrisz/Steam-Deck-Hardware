@@ -14,4 +14,5 @@
 
 ## Backplate swaps
 - Aluminium backplate (Aliexpress)
-- Jsaux backplates with extra holes and "heatsink"
+- [Jsaux backplates with extra holes and "heatsink"](https://jsaux.com/collections/transparent-cover)
+- [HandheldDIY backplate with extra holes and kickstand / strap](https://www.handhelddiy.com/products/steam-deck-deckplate)
