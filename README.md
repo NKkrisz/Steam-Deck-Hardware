@@ -123,7 +123,9 @@
 - [Fully Red](https://www.reddit.com/r/SteamDeck/comments/1cialbj/great_never_again/)
 - [GabeCube](https://www.reddit.com/r/SteamDeck/comments/1crzpaq/my_gabecube_is_finally_complete_switch_2_looking/)
 
-## 🧑‍🔧 Troubleshooting And Repair Guides
+## 🧑‍🔧 Troubleshooting, Repair Guides, Parts And Measurements
 - [Steam Support - Basic Use & Troubleshooting Guide](https://help.steampowered.com/en/faqs/view/69E3-14AF-9764-4C28)
 - [iFixit - Steam Deck LCD Repair Guides](https://www.ifixit.com/Device/Steam_Deck)
+- [Steam Deck LCD Parts And Measurements](Markdown/LCD_Parts.md)
 - [iFixit - Steam Deck OLED Repair Guides](https://www.ifixit.com/Device/Steam_Deck_OLED)
+- [Steam Deck OLED Parts And Measurements](Markdown/OLED_Parts.md)
