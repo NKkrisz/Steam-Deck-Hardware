@@ -64,7 +64,8 @@
 - [Jsaux](https://jsaux.com/collections/transparent-cover)
 
 ### Inputs
-- [ExtremeRate colored & transparent buttons](https://extremerate.com/collections/steam-deck-buttons)
+- [Custom 3D Printable Action Buttons And D-Pad](https://www.printables.com/model/925407-steam-deck-action-buttons-and-d-pad)
+- [ExtremeRate Colored & Transparent Buttons](https://extremerate.com/collections/steam-deck-buttons)
 - Etsy stores' resin or other buttons
 - [Joystick Cap Painting](https://www.youtube.com/watch?v=TbqEUB3BqjA)
 
