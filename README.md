@@ -118,6 +118,7 @@
 - [RAM, Wifi, Shell, Joystick And Screen Upgrade](https://www.youtube.com/watch?v=HW1yAWZjGrk)
     - Possible OLED Screen Swap For LCD Decks In The Future?
 - [Tablet / Switch Mod](https://www.reddit.com/r/SteamDeckModded/comments/17q4y8q/steamdeck_tablet_mod_and_3d_files_stl_and_step/)
+- [Bondi Blue iMac G3](https://www.reddit.com/r/SteamDeckModded/comments/1ev57jz/i_turned_my_deck_into_a_bondi_blue_imac_g3_from/)
 - [Giant 4K Screen](https://www.reddit.com/r/SteamDeck/comments/177ffd8/my_13inch_4k_oled_steam_deck/)
 - [Half Life Edition](https://www.reddit.com/r/SteamDeckModded/comments/1dd7ymu/steamdeck_oled_half_life_ver/)
 - [Portal Edition](https://www.reddit.com/r/SteamDeckModded/comments/1bib04o/introducing_the_steam_deck_oled_portal_edition/)
