@@ -46,7 +46,7 @@
 - [OLED Deck Specifications](https://www.steamdeck.com/en/tech/oled)
 - [LCD Deck revisions and differences](Markdown/LCD_Revisions.md)
 - [OLED Deck revisions and differences](Markdown/OLED_Revisions.md)
-- [Comparison video between LCD and OLED Deck hardware by Gamers Nexus](https://www.youtube.com/watch?v=9jhRh11bTRA)
+- [Comparison video between LCD and OLED Deck hardware - Gamers Nexus](https://www.youtube.com/watch?v=9jhRh11bTRA)
 
 ## [🧰 Recommended Tools For Repairing / Modding](Markdown/Tools.md)
 
@@ -95,7 +95,7 @@
 
 ### [Inputs](Markdown/Inputs.md)
 
-## 🕹️ Other Accessories
+## 🕹️ Accessories
 - [DeckMate - Backplate Extensions](https://getmechanism.com/collections/shop-mechanism/deckmate)
 - Back Button Extensions
     - [Playvital](https://playvital.com/collections/back-button-enhancement)
@@ -131,3 +131,7 @@
 - [Steam Deck LCD Parts And Measurements](Markdown/LCD_Parts.md)
 - [iFixit - Steam Deck OLED Repair Guides](https://www.ifixit.com/Device/Steam_Deck_OLED)
 - [Steam Deck OLED Parts And Measurements](Markdown/OLED_Parts.md)
+
+## 👀 Interesting Videos
+- [Steam Deck RGB Mod - Part 1 - I2C Investigation - CalcProgrammer1](https://www.youtube.com/watch?v=CzuZNvp0MOQ)
+- [Steam Deck Chip Deep-Dive (Van Gogh/Aerith) - High Yield](https://www.youtube.com/watch?v=ERm1StY-4uY)
