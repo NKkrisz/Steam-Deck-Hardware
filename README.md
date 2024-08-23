@@ -131,6 +131,7 @@
 - [Steam Deck LCD Parts And Measurements](Markdown/LCD_Parts.md)
 - [iFixit - Steam Deck OLED Repair Guides](https://www.ifixit.com/Device/Steam_Deck_OLED)
 - [Steam Deck OLED Parts And Measurements](Markdown/OLED_Parts.md)
+- [Fixes For Other Issues](Markdown/Fixes.md)
 
 ## 👀 Interesting Videos
 - [Steam Deck RGB Mod - Part 1 - I2C Investigation - CalcProgrammer1](https://www.youtube.com/watch?v=CzuZNvp0MOQ)
