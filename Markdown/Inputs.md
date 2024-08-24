@@ -1,7 +1,9 @@
 # Input Modifications
 [Back To Main File](../README.md)
 
-## Hall Effect Joysticks
+## Joysticks
+
+### Hall Effect Joysticks
 - Gulikit
     - [LCD version](https://www.gulikit.com/productinfo/1026071.html)
     - [OLED version](https://www.gulikit.com/productinfo/1215825.html)
@@ -16,13 +18,39 @@
     - Joystick caps have matte surface
     - Calibration on the joystick modules
 
-## Clicky Buttons
-- [ExtremeRate clicky buttons (LCD & OLED)](https://extremerate.com/collections/for-steam-deck-clicky-kit)
-
-## Joystick Cap Swap
+### Joystick Cap Swap
 - *Not Tested Yet - Basically OLED Joystick Caps Soldered To LCD Joystick Modules To Provide Better Grip And Look Better*
 1. Buy OLED / LCD Hall Effect Sticks Depending On Witch One You Want (eg. Gulikit, sadly joystick caps only aren't available anywhere)
 2. Desolder joystick caps from hall effect sticks
 3. Desolder joystick caps from original sticks
 4. Solder joystick caps from the hall effect stick to the original ones
 5. Test if everything works correctly
+
+### Joystick grips
+- [Playvital](https://playvital.com/collections/steam-deck-thumb-grip)
+- [Skull&Co.](https://skullnco.com/collections/steam-deck/products/thumb-grip-set-for-steam-deck)
+
+### Silicone Joystick Protector Rings
+- Benefits:
+    - Multiple colors available for extra customization
+    - Make sure to recalibrate after installing them
+    - Sticks don't make noise hitting the shell
+    - Stem won't have wear marks
+    - Smooth movement remains
+- [Playvital](https://playvital.com/collections/steam-deck-control-precision-rings)
+
+## Buttons
+
+### Clicky Buttons
+- [ExtremeRate clicky buttons (LCD & OLED)](https://extremerate.com/collections/for-steam-deck-clicky-kit)
+
+### Back Button Extensions
+- [Playvital](https://playvital.com/collections/back-button-enhancement)
+- [Skull&Co.](https://skullnco.com/collections/steam-deck/products/back-button-enhancement-set-for-steam-deck-4pcs)
+### Trigger And Shoulder Button Extensions
+- [Playvital](https://playvital.com/collections/steam-deck-triggers-extenders)
+
+## Other
+
+### Shell / Touchpad Grips
+- [Playvital](https://playvital.com/collections/steam-deck-controller-grip)

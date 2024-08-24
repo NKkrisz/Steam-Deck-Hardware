@@ -96,23 +96,12 @@
 ### [Inputs](Markdown/Inputs.md)
 
 ## 🕹️ Accessories
-- [DeckMate - Backplate Extensions](https://getmechanism.com/collections/shop-mechanism/deckmate)
-- Back Button Extensions
-    - [Playvital](https://playvital.com/collections/back-button-enhancement)
-    - [Skull&Co.](https://skullnco.com/collections/steam-deck/products/back-button-enhancement-set-for-steam-deck-4pcs)
-- Trigger And Shoulder Button Extensions
-    - [Playvital](https://playvital.com/collections/steam-deck-triggers-extenders)
-- Joystick grips
-    - [Playvital](https://playvital.com/collections/steam-deck-thumb-grip)
-    - [Skull&Co.](https://skullnco.com/collections/steam-deck/products/thumb-grip-set-for-steam-deck)
-- Shell / Touchpad Grips
-    - [Playvital](https://playvital.com/collections/steam-deck-controller-grip)
-- Silicone Joystick Rings
-    - [Playvital](https://playvital.com/collections/steam-deck-control-precision-rings)
+- [DeckMate - Backplate Addons](https://getmechanism.com/collections/shop-mechanism/deckmate)
 - Docks
     - [Valve's Steam Deck Dock](https://www.steamdeck.com/en/dock)
         - Most likely needs an adapter if used with a case on
         - Example adapter: [Project Killswitch - Steam Deck Dock Adapter From Dbrand](https://www.printables.com/model/411302-project-killswitch-steam-deck-dock-adapter)
+    - Any brand should work but it's recommended to at least have USB-C PD (Power Delivery) so the Deck remains charged
 
 ## 🎮 Fully Transformed Steam Deck Examples
 - [RAM, Wifi, Shell, Joystick And Screen Upgrade](https://www.youtube.com/watch?v=HW1yAWZjGrk)
