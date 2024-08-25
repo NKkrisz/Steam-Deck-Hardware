@@ -31,6 +31,8 @@
 
 ## ⚙️ Different Steam Deck Options, Revisions And Differences
 
+### [Prototypes](Markdown/Prototypes.md)
+
 ### LCD Version
 - Easily differentiable older / newer revision by looking at shielding above the motherboard
 
