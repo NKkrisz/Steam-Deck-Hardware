@@ -11,6 +11,6 @@ Source: https://www.steamdeck.com/en/press
 
 Source: https://x.com/Plagman2/status/1569404939864264704
 
-![Pierre-Loup Griffais Prototypes Video](../Images/Prototypes/Plagman_2_Prototype_Video_Image.png)
+https://github.com/NKkrisz/Steam-Deck-Hardware/blob/main/Images/Prototypes/Plagman2_Prototype_Video.mp4
 
 Video Source: https://x.com/Plagman2/status/1569445637799956480
