@@ -11,6 +11,6 @@ Source: https://www.steamdeck.com/en/press
 
 Source: https://x.com/Plagman2/status/1569404939864264704
 
-https://github.com/NKkrisz/Steam-Deck-Hardware/blob/main/Images/Prototypes/Plagman2_Prototype_Video.mp4
+https://github.com/user-attachments/assets/8b3be78b-9893-4016-9451-8868e35487a8
 
-Video Source: https://x.com/Plagman2/status/1569445637799956480
+Source: https://x.com/Plagman2/status/1569445637799956480
