@@ -18,6 +18,7 @@
 - [r/SteamDeck_2 Subreddit](https://www.reddit.com/r/SteamDeck_2/)
 - [Steam Deck Discord - #hardware-mods channel](https://discord.gg/steamdeck)
 - [Stanto's Website (Active Community Member On Steam Deck Discord)](https://www.stanto.com/)
+- [Repair Wiki](https://repair.wiki/w/Steam_Deck)
 
 ## ⚠️ DISCLAIMER - READ FIRST BEFORE MODIFYING ANYTHING
 - **Modifying your device will / may void your warranty!!!**
