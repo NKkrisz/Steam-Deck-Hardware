@@ -18,7 +18,6 @@
 - [r/SteamDeck_2 Subreddit](https://www.reddit.com/r/SteamDeck_2/)
 - [Steam Deck Discord - #hardware-mods channel](https://discord.gg/steamdeck)
 - [Stanto's Website (Active Community Member On Steam Deck Discord)](https://www.stanto.com/)
-- [Repair Wiki](https://repair.wiki/w/Steam_Deck)
 
 ## ⚠️ DISCLAIMER - READ FIRST BEFORE MODIFYING ANYTHING
 - **Modifying your device will / may void your warranty!!!**
@@ -132,6 +131,7 @@
 - [iFixit - Steam Deck OLED Repair Guides](https://www.ifixit.com/Device/Steam_Deck_OLED)
 - [Steam Deck OLED Parts And Measurements](Markdown/OLED_Parts.md)
 - [Fixes For Other Issues](Markdown/Fixes.md)
+- [Repair Wiki](https://repair.wiki/w/Steam_Deck)
 
 ## 👀 Interesting Videos
 - [Steam Deck RGB Mod - Part 1 - I2C Investigation - CalcProgrammer1](https://www.youtube.com/watch?v=CzuZNvp0MOQ)
