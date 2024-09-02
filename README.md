@@ -133,6 +133,7 @@
 - [Fixes For Other Issues](Markdown/Fixes.md)
 - [Repair Wiki](https://repair.wiki/w/Steam_Deck)
 
-## 👀 Interesting Videos
+## 👀 Interesting Stuff
 - [Steam Deck RGB Mod - Part 1 - I2C Investigation - CalcProgrammer1](https://www.youtube.com/watch?v=CzuZNvp0MOQ)
 - [Steam Deck Chip Deep-Dive (Van Gogh/Aerith) - High Yield](https://www.youtube.com/watch?v=ERm1StY-4uY)
+- [Steam Deck Buttons And Joystick Mod For The Steam Controller](https://www.reddit.com/r/SteamControllerMods/comments/1erquuf/update_on_steam_deck_face_button_mod/) - [Tutorial](https://www.reddit.com/r/SteamControllerMods/comments/1exfzic/steam_controller_with_steam_deck_oled_face_button/)
