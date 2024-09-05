@@ -11,3 +11,8 @@ SteamOS and Steam Deck software mods.
 ## Emulation
 - [EmuDeck](https://www.emudeck.com/)
 - [RetroDeck](http://retrodeck.net/)
+
+## 3rd Party Launchers
+- [Heroic Games Launcher](https://heroicgameslauncher.com/)
+- [Lutris](https://lutris.net/)
+- [Prism Launcher (Minecraft)](https://prismlauncher.org/)
