@@ -7,6 +7,8 @@ SteamOS and Steam Deck software mods.
 
 ## 3rd Party Software Mods
 - [Decky Loader / Plugin Store](https://decky.xyz/) - Install community made extensions for further customization or extra functionality!
+- [SteamOS Btrfs](https://gitlab.com/popsulfr/steamos-btrfs) - Convert from ext4 to btrfs file system for speed and storage gains!
+- [Steam Deck Refresh Rate Unlocker](https://github.com/ryanrudolfoba/SteamDeck-RefreshRateUnlocker) - Overclock your LCD Deck's screen!
 
 ## Emulation
 - [EmuDeck](https://www.emudeck.com/)
