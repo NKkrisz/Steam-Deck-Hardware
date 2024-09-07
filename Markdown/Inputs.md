@@ -50,6 +50,14 @@
 ### Trigger And Shoulder Button Extensions
 - [Playvital](https://playvital.com/collections/steam-deck-triggers-extenders)
 
+## Triggers
+
+### Dual Stage Triggers
+- [3D printed parts + tactile switches](https://www.thingiverse.com/thing:6210987)
+    - This model is only known to work with LCD Decks
+- Similar Feeling To Steam Controller ("click" feedback on full press)
+- Shouldn't interfere with trigger input values
+
 ## Other
 
 ### Shell / Touchpad Grips
