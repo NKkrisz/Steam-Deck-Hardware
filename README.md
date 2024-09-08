@@ -36,7 +36,7 @@
 ### LCD Version
 - Easily differentiable older / newer revision by looking at shielding above the motherboard
 
-|![Older model and Valve's pre mass production model](Images/LCD_Revisions/iFixit_Valve_And_Old_LCD.png) | **Older model and Valve's pre mass production model** |
+|![Older model (beginning of EV3) and an early model (EV2, sent out as dev kits)](Images/LCD_Revisions/iFixit_Valve_And_Old_LCD.png) | **Older model (beginning of EV3) and an early model (EV2, some early dev kits)** |
 |---|---|
 |![Newer revision with black shielding and other changes](Images/LCD_Revisions/iFixit_Newer_LCD.png) | **Newer revision with black shielding and other changes** |
 
