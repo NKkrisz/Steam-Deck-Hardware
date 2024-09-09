@@ -1,13 +1,14 @@
 # Steam-Deck-Hardware
 **Information and guides about Steam Deck hardware and modifications.**  
 **This project isn't associated with Valve and modifying your device will / may void your warranty.**  
-**None of the links are affiliated in any way or are included because of external payment.**
+**None of the links are affiliated in any way or are included because of external payment.**  
+**If you're the owner of some content mentioned / contained in this repository and want it removed please [contact me (NKkrisz)](https://linktr.ee/nkkrisz)**
 
 ## 🧑‍💻 [How To Contribute To This Repository](Markdown/Contributing.md) | [Credits And Sources](Markdown/Credits.md)
 
 ## 💵 How To Support Me (NKkrisz) And This Repository
 - Consider donating by clicking the button below:  
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nkkrisz)  
+[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nkkrisz)  
 - By doing so, I might be able to:
     - Get a second used / faulty LCD Deck
     - Upgrade to an OLED Deck which would enable further research
