@@ -39,6 +39,19 @@
     - Smooth movement remains
 - [Playvital](https://playvital.com/collections/steam-deck-control-precision-rings)
 
+### Xbox Elite 2 Joystick Module And Cap Swap
+- [Tutorial](https://www.youtube.com/watch?v=qO3G0MXIltg)
+- [Reddit Post](https://www.reddit.com/r/SteamDeckModded/comments/1bni7ro/swapped_standard_thumbstick_for_one_from_xbox/)
+- Negatives:
+    - Requires:
+        - Desoldering stock joystick module
+        - Spacers with different screws
+        - Modifications to the back shell (Cutting)
+    - Loses of capacitive touch
+- Benefits:
+    - Easily swappeable joystick caps
+    - Adjustable tension for the joysticks
+
 ## Buttons
 
 ### Clicky Buttons
