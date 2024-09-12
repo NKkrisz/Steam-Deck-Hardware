@@ -34,6 +34,8 @@
 
 ### [Prototypes](Markdown/Prototypes.md)
 
+### [Pre Mass Production](Markdown/Pre_Mass_Production.md)
+
 ### LCD Version
 - Easily differentiable older / newer revision by looking at shielding above the motherboard
 
