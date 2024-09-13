@@ -13,8 +13,8 @@
 ![Stanto EV2 (4)](../Images/LCD_Revisions/EV2/Stanto_EV2_4.jpg)
 ![Stanto EV2 (5)](../Images/LCD_Revisions/EV2/Stanto_EV2_5.jpg)
 ![Stanto EV2 (6)](../Images/LCD_Revisions/EV2/Stanto_EV2_6.jpg)
-![Stanto EV2 (7)](../Images/LCD_Revisions/EV2/Stanto_EV2_7.jpg)
-![Stanto EV2 (8)](../Images/LCD_Revisions/EV2/Stanto_EV2_8.jpg)
+![Stanto EV2 (7)](../Images/LCD_Revisions/EV2/Stanto_EV2_7.png)
+![Stanto EV2 (8)](../Images/LCD_Revisions/EV2/Stanto_EV2_8.png)
 ![Stanto EV2 (9)](../Images/LCD_Revisions/EV2/Stanto_EV2_9.jpg)
 
 ## Engineering Samples
