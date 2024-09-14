@@ -1,5 +1,5 @@
 # Steam-Deck-Hardware
-**Information and guides about Steam Deck hardware and modifications.**  
+**Information and guides about Steam Deck hardware and modifications - [For software stuff click here](https://github.com/NKkrisz/Steam-Deck-Software)**  
 **This project isn't associated with Valve and modifying your device will / may void your warranty.**  
 **None of the links are affiliated in any way or are included because of external payment.**  
 **If you're the owner of some content mentioned / contained in this repository and want it removed please [contact me (NKkrisz)](https://linktr.ee/nkkrisz)**
