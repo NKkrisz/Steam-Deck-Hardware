@@ -65,6 +65,7 @@
 ## ✨ Cosmetic Upgrades
 
 ### Full Shell Or Backplate Swap
+- [Transform LCD Deck Frontplate to fit a OLED Steam Deck](https://www.reddit.com/r/SteamDeckModded/comments/1fhc8zu/how_to_transform_a_lcd_frontplate_to_fit_a_oled/)
 - [ExtremeRate](https://extremerate.com/collections/steam-deck-shells)
 - [Jsaux](https://jsaux.com/collections/transparent-cover)
 
