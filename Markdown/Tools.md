@@ -23,3 +23,5 @@
 ## Heatgun or hair dryer - get screen out by loosening adhesives
 
 ## Original charger - turn on Deck again after entering battery storage mode
+
+## CH341A (Or Other Alternative) Programmer - useful when messing with BIOS or with recovery
