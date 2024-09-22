@@ -63,6 +63,9 @@
 ### Trigger And Shoulder Button Extensions
 - [Playvital](https://playvital.com/collections/steam-deck-triggers-extenders)
 
+### Custom Power Button
+- **Work in progress**
+
 ## Triggers
 
 ### Dual Stage Triggers
