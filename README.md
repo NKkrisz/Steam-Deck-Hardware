@@ -44,7 +44,8 @@
 |![Newer revision with black shielding and other changes](Images/LCD_Revisions/iFixit_Newer_LCD.png) | **Newer revision with black shielding and other changes** |
 
 ### OLED Version
-- No known revisions yet (?)
+|![No other known revisions yet (?)](Images/OLED_Revisions/KenFixed_OLED_LE.png) | **Limited Edition (only some accents and shell different) - no other known revisions yet** |
+|---|---|
 
 ### More Information About Both Can Be Found Here
 - [LCD Deck Specifications](https://www.steamdeck.com/en/tech/deck)
