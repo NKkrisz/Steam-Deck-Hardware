@@ -6,6 +6,7 @@
 
 ## Fans
 - [Whiny Delta Fan Fix](https://www.reddit.com/r/SteamDeck/comments/uckns3/how_i_fixed_my_whiny_delta_fan_with_electrical/)
+- Modified higher speed fans (More Info Needed)
 
 ## Heatsinks
 - [Thermal block](https://www.reddit.com/r/SteamDeckModded/comments/14uftr6/thermal_block_mod/)
