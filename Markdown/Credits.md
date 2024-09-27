@@ -20,6 +20,10 @@
 ### [Steam Deck Discord](https://discord.gg/steamdeck)
 
 ### People
-- Stanto (Discord, [Website](https://www.stanto.com/))
-- Blazini36 (Discord, [Youtube](https://www.youtube.com/@blazini))
-- Bootifulduk (Discord, aka. BDuk)
+- Stanto (Discord, [Website](https://www.stanto.com/)) - Technical Stuff & Awesome Website (Guides, Research etc...)
+- Blazini36 (Discord, [Youtube](https://www.youtube.com/@blazini)) - Technical Stuff & OLED Innovator
+- Bootifulduk (Discord, aka. BDuk) - CTRL+F Expert & Other Help
+- KenFixed (Discord) - Technical Stuff & Provided Various Images
+- dawidm0640 (Discord, [GitHub](https://github.com/dawidmpunkt)) - Rumble Innovator
+- dan2wik (Discord) - Technical Stuff & RAM Innovator
+- balika011 (Discord, [GitHub](https://github.com/balika011)) - BIOS Wizard For RAM Upgrades & DeckHD
