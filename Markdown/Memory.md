@@ -12,8 +12,14 @@
 - Tested Modules:
     - Samsung 8GB LPDDR5X K3LKCKC0BM-MGCP (x4)
 
+#### LCD Strap Resistor Diagram
+![LCD Strap Resistor Diagram](../Images/LCD_Revisions/Balika011_LCD_Strap_Resistors_Diagram.png)
+
 ### OLED Steam Deck
 - RAM Modules are too hard to get(?)
+
+#### OLED Strap Resistor Diagram
+![OLED Strap Resistor Diagram](../Images/OLED_Revisions/Slickbuys_OLED_Strap_Resistors_Diagram.png)
 
 ### [Video Explaining The Process (by dosdude1)](https://www.youtube.com/watch?v=nmobr6YEhWE)
 
