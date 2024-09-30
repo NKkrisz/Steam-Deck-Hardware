@@ -16,7 +16,7 @@
 
 ### Panelization - [Explanation By PCBWay](https://www.pcbway.com/blog/PCB_Basic_Information/What_is_PCB_Panelization_PCB_Knowledge_eaf7e88f.html)
 ![Panelization](../Images/LCD/Production/KenFixed_LCD_Motherboards_B_D_A.png)
-![Panelization Explanation](../Images/LCD/Production/Dan2wik_Panellisation_Tags_Explanation.png)
+![Panelization Explanation](../Images/LCD/Production/Dan2wik_Panelization_Tags_Explanation.png)
 
 ### Diode Readings
 ![Diode Readings](../Images/Measurements/KenFixed_LCD_OLED_Diode_Readings.png)
