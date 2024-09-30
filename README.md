@@ -39,12 +39,12 @@
 ### LCD Version
 - Easily differentiable older / newer revision by looking at shielding above the motherboard
 
-|![Older model (beginning of EV3) and an early model (EV2, sent out as dev kits)](Images/LCD_Revisions/iFixit_Valve_And_Old_LCD.png) | **Older model (beginning of EV3) and an early model (EV2, some early dev kits)** |
+|![Older model (beginning of EV3) and an early model (EV2, sent out as dev kits)](Images/LCD/iFixit_Valve_And_Old_LCD.png) | **Older model (beginning of EV3) and an early model (EV2, some early dev kits)** |
 |---|---|
-|![Newer revision with black shielding and other changes](Images/LCD_Revisions/iFixit_Newer_LCD.png) | **Newer revision with black shielding and other changes** |
+|![Newer revision with black shielding and other changes](Images/LCD/iFixit_Newer_LCD.png) | **Newer revision with black shielding and other changes** |
 
 ### OLED Version
-|![No other known revisions yet (?)](Images/OLED_Revisions/KenFixed_OLED_LE.png) | **Limited Edition (only some accents and shell different) - no other known revisions yet** |
+|![No other known revisions yet (?)](Images/OLED/KenFixed_OLED_LE.png) | **Limited Edition (only some accents and shell different) - no other known revisions yet** |
 |---|---|
 
 ### More Information About Both Can Be Found Here
