@@ -20,3 +20,14 @@
 
 ### Diode Readings
 ![Diode Readings](../Images/Measurements/KenFixed_LCD_OLED_Diode_Readings.png)
+
+## Joystick
+
+### Backside Of Right Joystick
+![Right Joystick Backside](../Images/LCD/Production/Kenfixed_LCD_Joystick_Backside.png)
+
+### Joystick Pinouts & Distance Measurements
+![Joystick Pinouts](../Images/Measurements/Kenfixed_LCD_Joystick_Pinouts.png)
+
+### Pinouts Only
+![Pinouts Only](../Images/Measurements/Kya_ufufu_Steam_Deck_And_Controller_Joystick_Pinouts.webp)
