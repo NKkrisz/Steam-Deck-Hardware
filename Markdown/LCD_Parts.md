@@ -31,3 +31,6 @@
 
 ### Pinouts Only
 ![Pinouts Only](../Images/Measurements/Kya_ufufu_Steam_Deck_And_Controller_Joystick_Pinouts.webp)
+
+### Other Controllers' Pinouts ([Source (?)](https://www.reddit.com/r/ConsoleRepairUK/comments/18i6al8/ps5_ps4_xbox_hall_effect_analog_stick_pinout/) - This Was Used For The Steam Deck Pinouts Edit)
+![Other Pinouts](../Images/Measurements/4nH3r0_Controller_Pinouts.webp)
