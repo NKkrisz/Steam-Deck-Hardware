@@ -15,9 +15,10 @@
     - Buy more expensive hardware for testing or for modifying Steam Decks
 
 ## 👥 Hardware Modding Communities / Resources
+- [Steam Deck Discord - #hardware-mods channel](https://discord.gg/steamdeck)
 - [r/SteamDeckModded Subreddit](https://www.reddit.com/r/SteamDeckModded/)
 - [r/SteamDeck_2 Subreddit](https://www.reddit.com/r/SteamDeck_2/)
-- [Steam Deck Discord - #hardware-mods channel](https://discord.gg/steamdeck)
+- [r/SteamDeck Subreddit](https://www.reddit.com/r/SteamDeck/)
 - [Stanto's Website (Active Community Member On Steam Deck Discord)](https://www.stanto.com/)
 
 ## ⚠️ DISCLAIMER - READ FIRST BEFORE MODIFYING ANYTHING
@@ -55,13 +56,6 @@
 - [Comparison video between LCD and OLED Deck hardware - Gamers Nexus](https://www.youtube.com/watch?v=9jhRh11bTRA)
 
 ## [🧰 Recommended Tools For Repairing / Modding](Markdown/Tools.md)
-
-## 🛠️ Replacement Parts
-
-### [iFixit (Official Valve partner)](https://store.steampowered.com/news/app/1675200/view/3216144458749237711)
-- [iFixit US](https://www.ifixit.com/Parts/Steam_Deck)
-- [iFixit EU](https://eustore.ifixit.com/collections/steam-deck-parts)
-- [iFixit AUS](https://australia.ifixit.com/collections/steam-deck-parts)
 
 ## ✨ Cosmetic Upgrades
 
@@ -137,6 +131,13 @@
 - [Steam Deck OLED Parts And Measurements](Markdown/OLED_Parts.md)
 - [Fixes For Other Issues](Markdown/Fixes.md)
 - [Repair Wiki](https://repair.wiki/w/Steam_Deck)
+
+## 🛠️ Replacement Parts
+
+### [iFixit (Official Valve partner)](https://store.steampowered.com/news/app/1675200/view/3216144458749237711)
+- [iFixit US](https://www.ifixit.com/Parts/Steam_Deck)
+- [iFixit EU](https://eustore.ifixit.com/collections/steam-deck-parts)
+- [iFixit AUS](https://australia.ifixit.com/collections/steam-deck-parts)
 
 ## 👀 Interesting Stuff
 - [How The Giant Steam Deck Was Made For The Tokyo Game Show (2022)](Markdown/Giant_Steam_Deck_TGS_2022.md)
