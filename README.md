@@ -111,6 +111,8 @@
     - [Spigen - Rugged Armor](https://www.spigen.com/collections/steam-deck/products/steam-deck-series-case-rugged-armor)
     - [Tomtoc - Armor-G12](https://www.tomtoc.com/products/armor-g12-steam-deck-case)
     - [Mepatem - 3 in 1 Case](https://www.amazon.com/dp/B0BRKWWJJ5)
+- Chargers
+    - Use the official one if possible to avoid damage and keep the Deck running while playing (45W)
 
 ## 🎮 Fully Transformed Steam Deck Examples
 - [RAM, Wifi, Shell, Joystick And Screen Upgrade](https://www.youtube.com/watch?v=HW1yAWZjGrk)
