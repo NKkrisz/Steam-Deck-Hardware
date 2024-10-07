@@ -112,7 +112,15 @@
     - [Tomtoc - Armor-G12](https://www.tomtoc.com/products/armor-g12-steam-deck-case)
     - [Mepatem - 3 in 1 Case](https://www.amazon.com/dp/B0BRKWWJJ5)
 - Chargers
-    - Use the official one if possible to avoid damage and keep the Deck running while playing (45W)
+    - Official / Stock:
+        - Power Output: 45W
+        - Length: 1.5m (LCD) or 2.5m (OLED) (Both are compatible with any Steam Decks)
+        - USB-C PD3.0
+        - Non-removable cable
+    - Recommendations / guidelines:
+        - 45W+ Output (If less the Deck might discharge during gaming)
+        - Needs USB PD (Power Delivery)
+        - Removable cable (To carry around any length needed)
 
 ## 🎮 Fully Transformed Steam Deck Examples
 - [RAM, Wifi, Shell, Joystick And Screen Upgrade](https://www.youtube.com/watch?v=HW1yAWZjGrk)
