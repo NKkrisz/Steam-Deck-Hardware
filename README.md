@@ -149,6 +149,13 @@
 - [iFixit EU](https://eustore.ifixit.com/collections/steam-deck-parts)
 - [iFixit AUS](https://australia.ifixit.com/collections/steam-deck-parts)
 
+### Do note that not everything is available in iFixit's stores, this includes:
+- Trackpads
+- Mother / Daughterboards
+- Ribbon Cables
+- Inner Screws (Backplate ones are available)
+- Original / Stock Carrying Cases
+
 ## 👀 Interesting Stuff
 - [How The Giant Steam Deck Was Made For The Tokyo Game Show (2022)](Markdown/Giant_Steam_Deck_TGS_2022.md)
 - [Steam Deck RGB Mod - Part 1 - I2C Investigation - CalcProgrammer1](https://www.youtube.com/watch?v=CzuZNvp0MOQ)
