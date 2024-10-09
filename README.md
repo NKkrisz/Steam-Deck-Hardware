@@ -51,9 +51,10 @@
 ### More Information About Both Can Be Found Here
 - [LCD Deck Specifications](https://www.steamdeck.com/en/tech/deck)
 - [OLED Deck Specifications](https://www.steamdeck.com/en/tech/oled)
-- [LCD Deck revisions and differences](Markdown/LCD_Revisions.md)
-- [OLED Deck revisions and differences](Markdown/OLED_Revisions.md)
-- [Comparison video between LCD and OLED Deck hardware - Gamers Nexus](https://www.youtube.com/watch?v=9jhRh11bTRA)
+- [LCD Deck Revisions And Differences](Markdown/LCD_Revisions.md)
+- [OLED Deck Revisions And Differences](Markdown/OLED_Revisions.md)
+- [Comparison Video Between LCD And OLED Deck Components](https://www.youtube.com/watch?v=9jhRh11bTRA)
+- [Comparison Video Between LCD And OLED Deck Input Lag](https://www.youtube.com/watch?v=LkrV6VlGPIE)
 
 ## [🧰 Recommended Tools For Repairing / Modding](Markdown/Tools.md)
 
