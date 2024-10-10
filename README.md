@@ -122,6 +122,10 @@
         - 45W+ Output (If less the Deck might discharge during gaming)
         - Needs USB PD (Power Delivery)
         - Removable cable (To carry around any length needed)
+    - Extra Strain Relief Solutions:
+        - USB-C 90 / 180 Degree Adapters
+        - [3D Printed Cable Relief](https://www.printables.com/model/218771-steam-deck-cable-strain-relief)
+    - [Additional information about battery and charging](https://www.reddit.com/r/SteamDeck/comments/ub0ai4/a_few_important_things_about_charging_the_deck/)
 
 ## 🎮 Fully Transformed Steam Deck Examples
 - [RAM, Wifi, Shell, Joystick And Screen Upgrade](https://www.youtube.com/watch?v=HW1yAWZjGrk)
