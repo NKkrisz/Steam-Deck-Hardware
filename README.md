@@ -68,6 +68,7 @@
 ### Inputs
 - [Custom 3D Printable Action Buttons And D-Pad](https://www.printables.com/model/925407-steam-deck-action-buttons-and-d-pad)
 - [ExtremeRate Colored & Transparent Buttons](https://extremerate.com/collections/steam-deck-buttons)
+- [Deck Buttons - Resin, Metal etc... Buttons](https://deckbuttons.com/)
 - Etsy stores' resin or other buttons
 - [Joystick Cap Painting](https://www.youtube.com/watch?v=TbqEUB3BqjA)
 
