@@ -106,6 +106,7 @@
         - Example adapter: [Project Killswitch - Steam Deck Dock Adapter From Dbrand](https://www.printables.com/model/411302-project-killswitch-steam-deck-dock-adapter)
     - Any brand should work but it's recommended to at least have USB-C PD (Power Delivery) so the Deck remains charged
 - Cases
+    - Stock / Original (Older ones had strap, different models are differently colored, 1TB OLED has a removable inner case)
     - [Dbrand - Project Killswitch](https://dbrand.com/shop/grip/steam-deck-cases)
     - Jsaux
         - [Modcase](https://jsaux.com/products/modcase-for-steam-deck-pc0104)
