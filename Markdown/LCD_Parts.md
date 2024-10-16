@@ -18,8 +18,17 @@
 ![Panelization](../Images/LCD/Production/KenFixed_LCD_Motherboards_B_D_A.png)
 ![Panelization Explanation](../Images/LCD/Production/Dan2wik_Panelization_Tags_Explanation.png)
 
+### Measurements
+
+![Kenfixed_LCD_Measurements_1](../Images/Measurements/Kenfixed_LCD_Measurements_1.png)
+![Kenfixed_LCD_Measurements_2](../Images/Measurements/Kenfixed_LCD_Measurements_2.png)
+
 ### Diode Readings
 ![Diode Readings](../Images/Measurements/KenFixed_LCD_OLED_Diode_Readings.png)
+
+### Traces
+![Kenfixed_LCD_Traces_1](../Images/Traces/Kenfixed_LCD_Traces_1.png)
+![Kenfixed_LCD_Traces_2](../Images/Traces/Kenfixed_LCD_Traces_2.png)
 
 ## Joystick
 
