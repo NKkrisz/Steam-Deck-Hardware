@@ -23,6 +23,9 @@
 ![Kenfixed_LCD_Measurements_1](../Images/Measurements/Kenfixed_LCD_Measurements_1.png)
 ![Kenfixed_LCD_Measurements_2](../Images/Measurements/Kenfixed_LCD_Measurements_2.png)
 
+F7A Revision Pads  
+![F7A Revision Pads](../Images/Measurements/Kenfixed_LCD_F7A_Pads.png)
+
 ### Diode Readings
 ![Diode Readings](../Images/Measurements/KenFixed_LCD_OLED_Diode_Readings.png)
 
