@@ -1,5 +1,5 @@
 # LCD Deck Revisions And Differences
-[Back To Main File](../README.md)
+[Back To Main File](../../README.md)
 
 ## Cooling
 - Different fans are being used (Huaying or Delta)

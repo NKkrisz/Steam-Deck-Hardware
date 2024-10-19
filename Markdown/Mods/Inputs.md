@@ -1,5 +1,5 @@
 # Input Modifications
-[Back To Main File](../README.md)
+[Back To Main File](../../README.md)
 
 ## Joysticks
 

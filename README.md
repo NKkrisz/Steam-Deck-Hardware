@@ -4,7 +4,7 @@
 **None of the links are affiliated in any way or are included because of external payment.**  
 **If you're the owner of some content mentioned / contained in this repository and want it removed please [contact me (NKkrisz)](https://linktr.ee/nkkrisz)**
 
-## 🧑‍💻 [How To Contribute To This Repository](Markdown/Contributing.md) | [Credits And Sources](Markdown/Credits.md)
+## 🧑‍💻 [How To Contribute To This Repository](./Contributing.md) | [Credits And Sources](./Credits.md)
 
 ## 💵 How To Support Me (NKkrisz) And This Repository
 - Consider donating by clicking the button below:  
@@ -33,9 +33,9 @@
 
 ## ⚙️ Different Steam Deck Options, Revisions And Differences
 
-### [Prototypes](Markdown/Prototypes.md)
+### [Prototypes](Markdown/Revisions/Prototypes.md)
 
-### [Pre Mass Production](Markdown/Pre_Mass_Production.md)
+### [Pre Mass Production](Markdown/Revisions/Pre_Mass_Production.md)
 
 ### LCD Version
 - Easily differentiable older / newer revision by looking at shielding above the motherboard
@@ -51,12 +51,12 @@
 ### More Information About Both Can Be Found Here
 - [LCD Deck Specifications](https://www.steamdeck.com/en/tech/deck)
 - [OLED Deck Specifications](https://www.steamdeck.com/en/tech/oled)
-- [LCD Deck Revisions And Differences](Markdown/LCD_Revisions.md)
-- [OLED Deck Revisions And Differences](Markdown/OLED_Revisions.md)
+- [LCD Deck Revisions And Differences](Markdown/Revisions/LCD_Revisions.md)
+- [OLED Deck Revisions And Differences](Markdown/Revisions/OLED_Revisions.md)
 - [Comparison Video Between LCD And OLED Deck Components](https://www.youtube.com/watch?v=9jhRh11bTRA)
 - [Comparison Video Between LCD And OLED Deck Input Lag](https://www.youtube.com/watch?v=LkrV6VlGPIE)
 
-## [🧰 Recommended Tools For Repairing / Modding](Markdown/Tools.md)
+## [🧰 Recommended Tools For Repairing / Modding](Markdown/Other/Tools.md)
 
 ## ✨ Cosmetic Upgrades
 
@@ -76,15 +76,15 @@
 
 ## 🪛 Hardware Upgrades
 
-### [Wireless Connectivity (Wifi And Bluetooth)](Markdown/Wireless.md)
+### [Wireless Connectivity (Wifi And Bluetooth)](Markdown/Mods/Wireless.md)
 
-### [Storage (SSD And MicroSD)](Markdown/Storage.md)
+### [Storage (SSD And MicroSD)](Markdown/Mods/Storage.md)
 
-### [Screen & Screen Protectors](Markdown/Screen.md)
+### [Screen & Screen Protectors](Markdown/Mods/Screen.md)
 
 ### [Tracking Device (eg. AirTag)](https://www.reddit.com/r/SteamDeck/comments/1aojmq8/added_a_slim_airtag_to_my_steam_deck/)
 
-### [Memory / RAM](Markdown/Memory.md)
+### [Memory / RAM](Markdown/Mods/Memory.md)
 
 ### [External GPU](https://www.reddit.com/r/SteamDeck/comments/1eqh47y/franken_deck_abomination/)
 
@@ -92,11 +92,11 @@
 
 ### [Dual Screen](https://www.reddit.com/r/SteamDeckModded/comments/1en98vt/my_take_on_dual_screen/)
 
-### [Cooling](Markdown/Cooling.md)
+### [Cooling](Markdown/Mods/Cooling.md)
 
 ### [Rumble](https://github.com/dawidmpunkt/rumble-for-steamdeck)
 
-### [Inputs](Markdown/Inputs.md)
+### [Inputs](Markdown/Mods/Inputs.md)
 
 ## 🕹️ Accessories
 - [DeckMate - Backplate Addons](https://getmechanism.com/collections/shop-mechanism/deckmate)
@@ -143,10 +143,10 @@
 ## 🧑‍🔧 Troubleshooting, Repair Guides, Parts And Measurements
 - [Steam Support - Basic Use & Troubleshooting Guide](https://help.steampowered.com/en/faqs/view/69E3-14AF-9764-4C28)
 - [iFixit - Steam Deck LCD Repair Guides](https://www.ifixit.com/Device/Steam_Deck)
-- [Steam Deck LCD Parts And Measurements](Markdown/LCD_Parts.md)
+- [Steam Deck LCD Parts And Measurements](Markdown/Parts/LCD_Parts.md)
 - [iFixit - Steam Deck OLED Repair Guides](https://www.ifixit.com/Device/Steam_Deck_OLED)
-- [Steam Deck OLED Parts And Measurements](Markdown/OLED_Parts.md)
-- [Fixes For Other Issues](Markdown/Fixes.md)
+- [Steam Deck OLED Parts And Measurements](Markdown/Parts/OLED_Parts.md)
+- [Fixes For Other Issues](Markdown/Other/Fixes.md)
 - [Repair Wiki](https://repair.wiki/w/Steam_Deck)
 
 ## 🛠️ Replacement Parts
@@ -164,7 +164,7 @@
 - Original / Stock Carrying Cases
 
 ## 👀 Interesting Stuff
-- [How The Giant Steam Deck Was Made For The Tokyo Game Show (2022)](Markdown/Giant_Steam_Deck_TGS_2022.md)
+- [How The Giant Steam Deck Was Made For The Tokyo Game Show (2022)](Markdown/Other/Giant_Steam_Deck_TGS_2022.md)
 - [Steam Deck RGB Mod - Part 1 - I2C Investigation - CalcProgrammer1](https://www.youtube.com/watch?v=CzuZNvp0MOQ)
 - [Steam Deck Chip Deep-Dive (Van Gogh/Aerith) - High Yield](https://www.youtube.com/watch?v=ERm1StY-4uY)
 - [Steam Deck Buttons And Joystick Mod For The Steam Controller](https://www.reddit.com/r/SteamControllerMods/comments/1erquuf/update_on_steam_deck_face_button_mod/) - [Tutorial](https://www.reddit.com/r/SteamControllerMods/comments/1exfzic/steam_controller_with_steam_deck_oled_face_button/)
