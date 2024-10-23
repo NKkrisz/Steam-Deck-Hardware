@@ -4,7 +4,7 @@
 **None of the links are affiliated in any way or are included because of external payment.**  
 **If you're the owner of some content mentioned / contained in this repository and want it removed please [contact me (NKkrisz)](https://linktr.ee/nkkrisz)**
 
-## 🧑‍💻 [How To Contribute To This Repository](./Markdown/Repository/Contributing.md) | [Credits And Sources](./Markdown/Repository/Credits.md)
+## 🧑‍💻 [How To Contribute To This Repository](./Markdown/Repository/Contribute.md) | [Credits And Sources](./Markdown/Repository/Credits.md)
 
 ## 💵 How To Support Me (NKkrisz) And This Repository
 - Consider donating by clicking the button below:  
