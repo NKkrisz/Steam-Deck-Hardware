@@ -3,7 +3,7 @@
 
 ## Screen Upgrades
 - [DeckHD (LCD)](https://www.deckhd.com/)
-    - Needs custom BIOS
+    - Needs custom BIOS [(Download)](https://www.deckhd.com/downloads/)
     - 1920x1200
     - Higher resolution results in less performance and battery life
     - Slightly better colors

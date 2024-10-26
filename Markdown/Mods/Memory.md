@@ -4,7 +4,9 @@
 ## Requirements
 - Knowledge about BGA soldering
 - Proper tools for BGA soldering
-- BIOS Patch (available in Steam Deck Discord)
+- BIOS Patch:
+    - Available in Steam Deck Discord
+    - [Balika011's site (DeckHD + 32GB combination too)](http://balika011.hu/deck_32gb/)
 
 ### LCD Steam Deck
 - Modding to 32GB is most common
