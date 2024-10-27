@@ -46,3 +46,6 @@ F7A Revision Pads
 
 ### Other Controllers' Pinouts ([Source (?)](https://www.reddit.com/r/ConsoleRepairUK/comments/18i6al8/ps5_ps4_xbox_hall_effect_analog_stick_pinout/) - This Was Used For The Steam Deck Pinouts Edit)
 ![Other Pinouts](../../Images/Measurements/4nH3r0_Controller_Pinouts.webp)
+
+## Additional information
+- [Different input / controller daughterboard revisions might not be "drop-in" replacements (firmware flashing might be needed)](https://www.reddit.com/r/SteamDeckModded/comments/1gcftli/can_i_really_use_a_rev_f_instead_of_another_rev_g/)
