@@ -102,7 +102,9 @@
 - [DeckMate - Backplate Addons](https://getmechanism.com/collections/shop-mechanism/deckmate)
 - Docks
     - [Valve's Steam Deck Dock](https://www.steamdeck.com/en/dock)
-        - Most likely needs an adapter if used with a case on
+        - Gets firmware updates from Valve
+        - Comes with another Steam Deck charger
+        - Most likely needs an adapter if used with a case on (USB extension or fitment fix)
         - Example adapter: [Project Killswitch - Steam Deck Dock Adapter From Dbrand](https://www.printables.com/model/411302-project-killswitch-steam-deck-dock-adapter)
     - Any brand should work but it's recommended to at least have USB-C PD (Power Delivery) so the Deck remains charged
 - Cases
