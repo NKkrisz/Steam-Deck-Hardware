@@ -55,6 +55,8 @@
 - [OLED Deck Revisions And Differences](Markdown/Revisions/OLED_Revisions.md)
 - [Comparison Video Between LCD And OLED Deck Components](https://www.youtube.com/watch?v=9jhRh11bTRA)
 - [Comparison Video Between LCD And OLED Deck Input Lag](https://www.youtube.com/watch?v=LkrV6VlGPIE)
+- [Analysis of LCD PWM Flicker & Visual Fatigue](https://www.reddit.com/r/SteamDeck/comments/17yf90o/analysis_of_the_pwm_of_the_steam_deck_lcd_screen/)
+- [Analysis of OLED PWM Flicker & Visual Fatigue](https://www.reddit.com/r/SteamDeck/comments/1882kys/analysis_of_the_pwmflickervisual_fatigue_of_the/)
 
 ## [🧰 Recommended Tools For Repairing / Modding](Markdown/Other/Tools.md)
 
