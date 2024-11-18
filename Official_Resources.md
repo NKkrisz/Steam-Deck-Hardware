@@ -3,6 +3,7 @@
 ## Steam Support
 - [Steam Deck - Basic Use & Troubleshooting Guide](https://help.steampowered.com/en/faqs/view/69E3-14AF-9764-4C28)
 - [Steam Deck Recovery Instructions](https://help.steampowered.com/en/faqs/view/1b71-edf2-eb6d-2bb3)
+- [Steam Deck - Windows Resources](https://help.steampowered.com/en/faqs/view/6121-ECCD-D643-BAA8)
 - [Help With Steam Deck](https://help.steampowered.com/en/wizard/HelpWithSteamDeck)
 
 ## Steamworks

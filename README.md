@@ -3,6 +3,8 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 
 **No, we don't know when Steam Deck 2 will release.**
 
+## [Official Resources made by Valve / Steam](./Official_Resources.md)
+
 ## Sales
 - Steam Sales
 - Previous Steam Deck Sales
