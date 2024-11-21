@@ -29,3 +29,10 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 ## Games
 - Does *x* game work under Linux / on Deck?
 - Other storefronts / launchers
+
+## Other Resources / Communities
+- [Steam Deck Hardware Knowledge Repository](https://nkkrisz.github.io/Steam-Deck-Hardware/)
+- [Steam Deck Software Knowledge Repository](https://nkkrisz.github.io/Steam-Deck-Software/)
+- [Steam Deck Discord](https://discord.com/invite/steamdeck) + [Their FAQ](https://bit.ly/steamdeckfaq)
+- [r/SteamDeck](https://reddit.com/r/SteamDeck)
+- [Stanto.com](https://www.stanto.com)
