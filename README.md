@@ -38,7 +38,12 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 ## Accessories
 - General Recommendations
 - [MicroSD Cards](https://nkkrisz.github.io/Steam-Deck-Hardware/Markdown/Mods/Storage.html)
+- Controllers
 - Docks
+- Cases
+- Screen protectors
+- Thumbstick caps
+- Back button extensions
 
 ## Hardware
 - [Steam Deck Hardware Knowledge Repository](https://nkkrisz.github.io/Steam-Deck-Hardware/)
@@ -46,6 +51,7 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - Battery and charging
 - Limitations
 - [SSD Swap](https://nkkrisz.github.io/Steam-Deck-Hardware/Markdown/Mods/Storage.html)
+- Remote Wake
 
 ## Software
 - [Steam Deck Software Knowledge Repository](https://nkkrisz.github.io/Steam-Deck-Software/)
@@ -53,6 +59,7 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - Emulation (eg. Emudeck)
 - SteamOS
 - Windows
+- Remote Play
 
 ## Games
 - [Does ***INSERT GAME'S NAME*** work under Linux / on Deck?](Game_Compability.md)
