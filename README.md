@@ -28,6 +28,17 @@ Answers for Frequently Asked Questions related to the Steam Deck.
     - Media consumption, doing work etc...
         - Might benefit from a larger screen, built in keyboard or more ports which the Steam Deck lacks
 
+## Comparisons
+- Laptop
+- PC
+- Handhelds
+    - Asus ROG Ally (X)
+    - Lenovo Legion Go
+    - Playstation Portal
+- Consoles
+    - PS5
+    - Xbox Series S/X
+
 ## Sales
 - [Steam Sales]()
 - Previous Steam Deck Sales
@@ -38,32 +49,35 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 ## Accessories
 - General Recommendations
 - [MicroSD Cards](https://nkkrisz.github.io/Steam-Deck-Hardware/Markdown/Mods/Storage.html)
+- Back button extensions
+- Screen protectors
+- Thumbstick caps
 - Controllers
 - Docks
 - Cases
-- Screen protectors
-- Thumbstick caps
-- Back button extensions
 
 ## Hardware
 - [Steam Deck Hardware Knowledge Repository](https://nkkrisz.github.io/Steam-Deck-Hardware/)
 - Differences between LCD and OLED Deck
 - Battery and charging
 - Limitations
-- [SSD Swap](https://nkkrisz.github.io/Steam-Deck-Hardware/Markdown/Mods/Storage.html)
 - Remote Wake
+- [SSD Swap](https://nkkrisz.github.io/Steam-Deck-Hardware/Markdown/Mods/Storage.html)
 
 ## Software
 - [Steam Deck Software Knowledge Repository](https://nkkrisz.github.io/Steam-Deck-Software/)
 - Decky (3rd party plugins)
 - Emulation (eg. Emudeck)
+- Remote Play
 - SteamOS
 - Windows
-- Remote Play
 
-## Games
-- [Does ***INSERT GAME'S NAME*** work under Linux / on Deck?](Game_Compability.md)
+## Gaming
+- [Does ***INSERT GAME'S NAME*** work under Linux / on Deck? + Deck Verified program](Game_Compability.md)
 - [Other storefronts / launchers](Launchers.md)
+- Game / Quick Access Menu (QAM) settings
+- Top played games on Deck
+- Recommendations
 
 ## Other Resources / Communities
 - [Steam Deck Discord](https://discord.com/invite/steamdeck) + [Their FAQ](https://bit.ly/steamdeckfaq)
