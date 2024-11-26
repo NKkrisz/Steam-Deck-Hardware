@@ -55,6 +55,9 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - Controllers
 - Docks
 - Cases
+- External monitors
+- VR headsets / XR glasses
+- Manufacturer list
 
 ## Hardware
 - [Steam Deck Hardware Knowledge Repository](https://nkkrisz.github.io/Steam-Deck-Hardware/)
