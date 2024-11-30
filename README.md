@@ -45,7 +45,7 @@
 |![Newer revision with black shielding and other changes](Images/LCD/iFixit_Newer_LCD.png) | **Newer revision with black shielding and other changes** |
 
 ### OLED Version
-|![No other known revisions yet (?)](Images/OLED/KenFixed_OLED_LE.png) | **Limited Edition (only some accents and shell different) - no other known revisions yet** |
+|![No other known revisions yet (?)](Images/OLED/KenFixed_OLED_LE.png) | **Limited Edition (only some accents and shell different) - Some smaller changes are being introduced** |
 |---|---|
 
 ### More Information About Both Can Be Found Here
