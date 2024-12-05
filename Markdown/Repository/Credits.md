@@ -20,11 +20,13 @@
 ### [Steam Deck Discord](https://discord.gg/steamdeck)
 
 ### People
-- Stanto (Discord, [Website](https://www.stanto.com/)) - Technical Stuff & Awesome Website (Guides, Research etc...)
-- Blazini36 (Discord, [Youtube](https://www.youtube.com/@blazini)) - Technical Stuff & OLED Innovator
+- Stanto (Discord, [Website](https://www.stanto.com/)) - Technical Stuff & Awesome Website (Guides, Research etc...), Provided Various Images
+- Blazini36 (Discord, [Youtube](https://www.youtube.com/@blazini)) - Technical Stuff & OLED Innovator (DeckSight)
 - Bootifulduk (Discord, aka. BDuk) - CTRL+F Expert & Other Help
 - KenFixed (Discord) - Technical Stuff & Provided Various Images
 - dawidm0640 (Discord, [GitHub](https://github.com/dawidmpunkt)) - Rumble & I2C Innovator
 - dan2wik (Discord) - Technical Stuff & RAM Innovator
 - balika011 (Discord, [GitHub](https://github.com/balika011)) - BIOS Wizard For RAM Upgrades & DeckHD
 - Calcprogrammer1 (Discord, [Youtube](https://www.youtube.com/@CalcProgrammer1/)) - I2C Investigations & OpenRGB Mod
+- Dex (Discord) - Overclocking / General Tinkering & Provided Various Images
+- EtaCarinae (Discord) - Overclocking Help
