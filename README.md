@@ -31,7 +31,7 @@
 - **TAKE OUT THE SD CARD BEFORE OPENING THE STEAM DECK OR IT WILL BREAK!!!**
 - **DISCONNECT THE BATTERY AFTER TAKING OFF THE SHIELDING!!!**
 
-## ⚙️ Different Steam Deck Options, Revisions And Differences
+## ⚙️ Different Steam Deck Releases, Revisions And Differences
 
 ### [Prototypes](Markdown/Revisions/Prototypes.md)
 
@@ -45,8 +45,12 @@
 |![Newer revision with black shielding and other changes](Images/LCD/iFixit_Newer_LCD.png) | **Newer revision with black shielding and other changes** |
 
 ### OLED Version
-|![No other known revisions yet (?)](Images/OLED/KenFixed_OLED_LE.png) | **Limited Edition (only some accents and shell different) - Some smaller changes are being introduced** |
+
+|![Normal OLED](Images/OLED/Dex_OLED_2024_Nov-Removebg.png) | **Stock OLED (2024. November purchase) - Some smaller changes are being introduced (eg. SK Hynix RAM?)** |
 |---|---|
+|![Transparent Black Limited Edition](Images/OLED/KenFixed_OLED_LE.png) | **Transparent Black Limited Edition (only some accents and shell different)** |
+|---|---|
+|![White Limited Edition](Images/OLED/Kenfixed_OLED_White_LE-Removebg.png) | **White Limited Edition - Some smaller changes are being introduced** |
 
 ### More Information About Both Can Be Found Here
 - [LCD Deck Specifications](https://www.steamdeck.com/en/tech/deck)
