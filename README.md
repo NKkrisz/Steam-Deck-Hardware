@@ -172,7 +172,8 @@
 - Original / Stock Carrying Cases
 
 ## 👀 Interesting Stuff
-- [ You can wake up a docked Steam Deck (LCD too) with the Steam Controller](https://www.reddit.com/r/SteamDeck/comments/15c6h2x/you_can_wake_up_a_docked_steam_deck_with_the/)
+- [Quanta Computer is the manufacturer of Steam Decks (See 3rd picture, top-left print on box, Valve is also mentioned on their wiki)](https://store.steampowered.com/news/app/1675180/view/2963920750895461227)
+- [You can wake up a docked Steam Deck (LCD too) with the Steam Controller](https://www.reddit.com/r/SteamDeck/comments/15c6h2x/you_can_wake_up_a_docked_steam_deck_with_the/)
 - [How The Giant Steam Deck Was Made For The Tokyo Game Show (2022)](Markdown/Other/Giant_Steam_Deck_TGS_2022.md)
 - [Steam Deck RGB Mod - Part 1 - I2C Investigation - CalcProgrammer1](https://www.youtube.com/watch?v=CzuZNvp0MOQ)
 - [Steam Deck Chip Deep-Dive (Van Gogh/Aerith) - High Yield](https://www.youtube.com/watch?v=ERm1StY-4uY)
