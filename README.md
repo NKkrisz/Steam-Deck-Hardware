@@ -33,36 +33,36 @@
 
 ## ⚙️ Different Steam Deck Releases, Revisions And Differences
 
-### [Prototypes](Markdown/Revisions/Prototypes.md)
+### [Prototypes](./Markdown/Revisions/Prototypes.md)
 
-### [Pre Mass Production](Markdown/Revisions/Pre_Mass_Production.md)
+### [Pre Mass Production](./Markdown/Revisions/Pre_Mass_Production.md)
 
 ### LCD Version
 - Easily differentiable older / newer revision by looking at shielding above the motherboard
 
-|![Older model (beginning of EV3) and an early model (EV2, sent out as dev kits)](Images/LCD/iFixit_Valve_And_Old_LCD.png) | **Older model (beginning of EV3) and an early model (EV2, some early dev kits)** |
+|![Older model (beginning of EV3) and an early model (EV2, sent out as dev kits)](./Images/LCD/iFixit_Valve_And_Old_LCD.png) | **Older model (beginning of EV3) and an early model (EV2, some early dev kits)** |
 |---|---|
-|![Newer revision with black shielding and other changes](Images/LCD/iFixit_Newer_LCD.png) | **Newer revision with black shielding and other changes** |
+|![Newer revision with black shielding and other changes](./Images/LCD/iFixit_Newer_LCD.png) | **Newer revision with black shielding and other changes** |
 
 ### OLED Version
 
-|![Normal OLED](Images/OLED/Dex_OLED_2024_Nov-Removebg.png) | **Stock OLED (2024. November purchase) - Some smaller changes are being introduced (eg. SK Hynix RAM?)** |
+|![Normal OLED](./Images/OLED/Dex_OLED_2024_Nov-Removebg.png) | **Stock OLED (2024. November purchase) - Some smaller changes are being introduced (eg. SK Hynix RAM?)** |
 |---|---|
-|![Transparent Black Limited Edition](Images/OLED/KenFixed_OLED_LE.png) | **Transparent Black Limited Edition (only some accents and shell different)** |
+|![Transparent Black Limited Edition](./Images/OLED/KenFixed_OLED_LE.png) | **Transparent Black Limited Edition (only some accents and shell different)** |
 |---|---|
-|![White Limited Edition](Images/OLED/Kenfixed_OLED_White_LE-Removebg.png) | **White Limited Edition - Some smaller changes are being introduced** |
+|![White Limited Edition](./Images/OLED/Kenfixed_OLED_White_LE-Removebg.png) | **White Limited Edition - Some smaller changes are being introduced** |
 
 ### More Information About Both Can Be Found Here
 - [LCD Deck Specifications](https://www.steamdeck.com/en/tech/deck)
 - [OLED Deck Specifications](https://www.steamdeck.com/en/tech/oled)
-- [LCD Deck Revisions And Differences](Markdown/Revisions/LCD_Revisions.md)
-- [OLED Deck Revisions And Differences](Markdown/Revisions/OLED_Revisions.md)
+- [LCD Deck Revisions And Differences](./Markdown/Revisions/LCD_Revisions.md)
+- [OLED Deck Revisions And Differences](./Markdown/Revisions/OLED_Revisions.md)
 - [Comparison Video Between LCD And OLED Deck Components](https://www.youtube.com/watch?v=9jhRh11bTRA)
 - [Comparison Video Between LCD And OLED Deck Input Lag](https://www.youtube.com/watch?v=LkrV6VlGPIE)
 - [Analysis of LCD PWM Flicker & Visual Fatigue](https://www.reddit.com/r/SteamDeck/comments/17yf90o/analysis_of_the_pwm_of_the_steam_deck_lcd_screen/)
 - [Analysis of OLED PWM Flicker & Visual Fatigue](https://www.reddit.com/r/SteamDeck/comments/1882kys/analysis_of_the_pwmflickervisual_fatigue_of_the/)
 
-## [🧰 Recommended Tools For Repairing / Modding](Markdown/Other/Tools.md)
+## [🧰 Recommended Tools For Repairing / Modding](./Markdown/Other/Tools.md)
 
 ## ✨ Cosmetic Upgrades
 
@@ -82,15 +82,15 @@
 
 ## 🪛 Hardware Upgrades
 
-### [Wireless Connectivity (Wifi And Bluetooth)](Markdown/Mods/Wireless.md)
+### [Wireless Connectivity (Wifi And Bluetooth)](./Markdown/Mods/Wireless.md)
 
-### [Storage (SSD And MicroSD)](Markdown/Mods/Storage.md)
+### [Storage (SSD And MicroSD)](./Markdown/Mods/Storage.md)
 
-### [Screen & Screen Protectors](Markdown/Mods/Screen.md)
+### [Screen & Screen Protectors](./Markdown/Mods/Screen.md)
 
 ### [Tracking Device (eg. AirTag)](https://www.reddit.com/r/SteamDeck/comments/1aojmq8/added_a_slim_airtag_to_my_steam_deck/)
 
-### [Memory / RAM](Markdown/Mods/Memory.md)
+### [Memory / RAM](./Markdown/Mods/Memory.md)
 
 ### [External GPU](https://www.reddit.com/r/SteamDeck/comments/1eqh47y/franken_deck_abomination/)
 
@@ -98,11 +98,11 @@
 
 ### [Dual Screen](https://www.reddit.com/r/SteamDeckModded/comments/1en98vt/my_take_on_dual_screen/)
 
-### [Cooling](Markdown/Mods/Cooling.md)
+### [Cooling](./Markdown/Mods/Cooling.md)
 
 ### [Rumble](https://github.com/dawidmpunkt/rumble-for-steamdeck)
 
-### [Inputs](Markdown/Mods/Inputs.md)
+### [Inputs](./Markdown/Mods/Inputs.md)
 
 ## 🕹️ Accessories
 - [DeckMate - Backplate Addons](https://getmechanism.com/collections/shop-mechanism/deckmate)
@@ -151,10 +151,10 @@
 ## 🧑‍🔧 Troubleshooting, Repair Guides, Parts And Measurements
 - [Steam Support - Basic Use & Troubleshooting Guide](https://help.steampowered.com/en/faqs/view/69E3-14AF-9764-4C28)
 - [iFixit - Steam Deck LCD Repair Guides](https://www.ifixit.com/Device/Steam_Deck)
-- [Steam Deck LCD Parts And Measurements](Markdown/Parts/LCD_Parts.md)
+- [Steam Deck LCD Parts And Measurements](./Markdown/Parts/LCD_Parts.md)
 - [iFixit - Steam Deck OLED Repair Guides](https://www.ifixit.com/Device/Steam_Deck_OLED)
-- [Steam Deck OLED Parts And Measurements](Markdown/Parts/OLED_Parts.md)
-- [Fixes For Other Issues](Markdown/Other/Fixes.md)
+- [Steam Deck OLED Parts And Measurements](./Markdown/Parts/OLED_Parts.md)
+- [Fixes For Other Issues](./Markdown/Other/Fixes.md)
 - [Repair Wiki](https://repair.wiki/w/Steam_Deck)
 
 ## 🛠️ Replacement Parts
@@ -176,7 +176,7 @@
 - Steam Decks' brown cardboard shipping boxes have Valve references on them
 - In Japan the boxes that Steam Decks come in are different and have proper retail packaging and design
 - [You can wake up a docked Steam Deck (LCD too) with the Steam Controller](https://www.reddit.com/r/SteamDeck/comments/15c6h2x/you_can_wake_up_a_docked_steam_deck_with_the/)
-- [How The Giant Steam Deck Was Made For The Tokyo Game Show (2022)](Markdown/Other/Giant_Steam_Deck_TGS_2022.md)
+- [How The Giant Steam Deck Was Made For The Tokyo Game Show (2022)](./Markdown/Other/Giant_Steam_Deck_TGS_2022.md)
 - [Steam Deck RGB Mod - Part 1 - I2C Investigation - CalcProgrammer1](https://www.youtube.com/watch?v=CzuZNvp0MOQ)
 - [Steam Deck Chip Deep-Dive (Van Gogh/Aerith) - High Yield](https://www.youtube.com/watch?v=ERm1StY-4uY)
 - [Steam Deck Buttons And Joystick Mod For The Steam Controller](https://www.reddit.com/r/SteamControllerMods/comments/1erquuf/update_on_steam_deck_face_button_mod/) - [Tutorial](https://www.reddit.com/r/SteamControllerMods/comments/1exfzic/steam_controller_with_steam_deck_oled_face_button/)
