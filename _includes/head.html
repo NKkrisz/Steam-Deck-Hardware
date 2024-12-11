@@ -1,7 +1,13 @@
 <head>
-    <meta property="og:title" content="Steam Deck Hardware Guide"/>
-    <meta property="og:description" content="Information and guides about Steam Deck hardware and modifications."/>
+    <meta property="og:title" content="{{ page.title | escape }}"/>
+    <meta property="og:description" content="{{ page.excerpt | escape }}"/>
     <meta property="og:image" content="https://hardware.steamdeck.guide/Images/Prototypes/Valve_Prototypes_1.jpg"/>
-    <meta property="og:url" content="https://hardware.steamdeck.guide"/>
+    <meta property="og:url" content="{{ page.url | absolute_url | replace: '/$', '' }}"/>
     <meta property="og:type" content="website"/>
+    <link rel="canonical" href="{{ page.url | absolute_url | replace: '/$', '' }}"/>
+  
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:title" content="{{ page.title | escape }}"/>
+    <meta name="twitter:description" content="{{ page.excerpt | escape }}"/>
+    <meta name="twitter:image" content="https://hardware.steamdeck.guide/Images/Prototypes/Valve_Prototypes_1.jpg"/>
 </head>
