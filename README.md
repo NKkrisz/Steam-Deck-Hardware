@@ -17,7 +17,6 @@
 ## 👥 Hardware Modding Communities / Resources
 - [Steam Deck Discord - #hardware-mods channel](https://discord.gg/steamdeck)
 - [r/SteamDeckModded Subreddit](https://www.reddit.com/r/SteamDeckModded/)
-- [r/SteamDeck_2 Subreddit](https://www.reddit.com/r/SteamDeck_2/)
 - [r/SteamDeck Subreddit](https://www.reddit.com/r/SteamDeck/)
 - [Stanto's Website (Active Community Member On Steam Deck Discord)](https://www.stanto.com/)
 

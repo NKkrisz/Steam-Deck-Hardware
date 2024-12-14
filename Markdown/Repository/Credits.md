@@ -15,7 +15,7 @@
 
 ### [r/SteamDeckModded Subreddit](https://www.reddit.com/r/SteamDeckModded/)
 
-### [r/SteamDeck_2 Subreddit](https://www.reddit.com/r/SteamDeck_2/)
+### [r/SteamDeck_2 (Now Private)](https://www.reddit.com/r/SteamDeck_2/)
 
 ### [Steam Deck Discord](https://discord.gg/steamdeck)
 

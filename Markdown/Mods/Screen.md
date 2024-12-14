@@ -16,5 +16,10 @@
     - [Test video](https://www.youtube.com/watch?v=6k0xo2lMYZk)
     - [Crowdfunding page](https://www.crowdsupply.com/shade-technik/decksight)
 
-## Screen Protectors
-- [Anti-glare Screen Protector vs Glossy Screen Comparison](https://www.reddit.com/r/SteamDeck_2/comments/1bbhsdg/antiglare_glossy_screen_protectors_comparison/)
+## Etched / Glossy Screen And Screen Protector Information
+- [OLED Etched Glass vs Glossy Arguments Need to Stop](https://www.reddit.com/r/SteamDeck/comments/17txh1n/oled_etched_glass_vs_glossy_arguments_need_to_stop/)
+- [Glossy LCD vs Glossy OLED vs LE](https://www.reddit.com/r/SteamDeck/comments/181tc89/glossy_lcd_vs_glossy_oled_vs_le/)
+- TDLR:
+    - Anti-glare screen protectors usually make the image less sharp but can drastically improve outside gaming experience
+    - Glossy screens can be made "matte" and etched ones can be made glossy with screen protectors ([Etched to glossy example](https://youtu.be/7FKJODmcdiM?si=cbwKTfyTI6YoDUc_&t=161))
+    - [There are anti-reflective screen protectors as well for a "middle-ground"](https://www.reddit.com/r/SteamDeck/comments/1cvziew/psa_for_screen_reflection_freaks_like_me/)
