@@ -56,6 +56,8 @@
 
 ### Clicky Buttons
 - [ExtremeRate clicky buttons (LCD & OLED)](https://extremerate.com/collections/for-steam-deck-clicky-kit)
+    - [Sound and feeling can be changed to be a bit more quiet and less tactile by putting painters tape on the buttons](https://www.reddit.com/r/SteamDeckModded/comments/1hewzl7/achieving_a_quieter_tactile_buttons_dpad_w_the/)
+    - ![Taped ExtremeRate Clicky Kit](../../Images/Other/JustTheEngineer_Clicky_Taped.jpeg)
 
 ### Back Button Extensions
 - [Playvital](https://playvital.com/collections/back-button-enhancement)
