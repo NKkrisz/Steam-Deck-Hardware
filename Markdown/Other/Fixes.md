@@ -21,3 +21,9 @@
 - If it shows incorrect size:
     - Make sure the OS is fully updated
     - Make sure the drive is partitioned correctly
+
+## OLED Audio Board (Crackling / Static Noise From 3.5mm Headphone Jack)
+- Insulate screws and bottom of the audio board
+- Buy new revision from iFixit
+- RMA and get it repaired
+- For all possible solutions navigate to [Images/OLED/Internals/Audio_Board](https://github.com/NKkrisz/Steam-Deck-Hardware/tree/main/Images/OLED/Internals/Audio_Board) in the GitHub repository
