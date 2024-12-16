@@ -182,9 +182,10 @@
  
 ## TODO
 - Update old / add new info into Markdown files:
-    - OLED audio board fix
     - Carrying Cases
     - Other things...
 - Get pictures of all LCD & OLED components (all sides)
 - Get more video footage of certain mods (eg. clicky buttons, dual-stage triggers)
 - Add images of packaging (worldwide and Japanese versions)
+- Remove background of Steam Deck revision pictures manually
+- Separate EV2 and early production LCD Steam Decks in comparison table
