@@ -27,3 +27,8 @@
 - Buy new revision from iFixit
 - RMA and get it repaired
 - For all possible solutions navigate to [Images/OLED/Internals/Audio_Board](https://github.com/NKkrisz/Steam-Deck-Hardware/tree/main/Images/OLED/Internals/Audio_Board) in the GitHub repository
+
+## Whiny Fan (Delta LCD Deck)
+- [Put electrical tape on the backplate where the Valve logo is](https://www.reddit.com/r/SteamDeck/comments/uckns3/how_i_fixed_my_whiny_delta_fan_with_electrical/)
+    - ![Electrical tape fan fix](../../Images/LCD/Other/OligarchyAmbulance_Delta_Fan_Fix_Electrical_Tape.jpeg)
+- [Replace it with Huaying fan from iFixit (or other stores)](https://www.reddit.com/r/SteamDeck/comments/w37ie4/the_ifixit_replacement_fan_really_is_that_much/)
