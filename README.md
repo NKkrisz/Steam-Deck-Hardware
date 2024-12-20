@@ -189,3 +189,5 @@
 - Add images of packaging (worldwide and Japanese versions)
 - Remove background of Steam Deck revision pictures manually
 - Separate EV2 and early production LCD Steam Decks in comparison table
+- Add info about more cooling mods (better fan, better heatsink, liquid cooling)
+- Add info about stiffer / stronger trigger mod (different / combination of springs)
