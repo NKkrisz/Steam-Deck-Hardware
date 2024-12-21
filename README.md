@@ -191,3 +191,5 @@
 - Separate EV2 and early production LCD Steam Decks in comparison table
 - Add info about more cooling mods (better fan, better heatsink, liquid cooling)
 - Add info about stiffer / stronger trigger mod (different / combination of springs)
+- DIY Hall-effect / TMR joysticks research and testing
+- OLED battery swap into LCD Deck? ([Currently doesn't work](https://www.ifixit.com/Answers/View/823192/Could+I+put+the+new+Steam+Deck+OLED+battery+into+the+original+Deck))
