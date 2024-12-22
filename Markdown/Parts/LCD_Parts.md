@@ -38,7 +38,7 @@ F7A Revision Pads
 ### Backside Of Right Joystick
 ![Right Joystick Backside](../../Images/LCD/Production/Kenfixed_LCD_Joystick_Backside.png)
 
-### Joystick Pinouts & Distance Measurements
+### Joystick Pinouts & Distance Measurements (MIGHT BE WRONG AND USING PS5 PINOUT INSTEAD, NEEDS RE-MEASURING AND TESTING FOR TYPE A / B STICKS SEPARATELY)
 ![Joystick Pinouts](../../Images/Measurements/Kenfixed_LCD_Joystick_Pinouts.png)
 
 ### Pinouts Only
