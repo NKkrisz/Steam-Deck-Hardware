@@ -194,3 +194,6 @@
 - DIY Hall-effect / TMR joysticks research and testing
 - OLED battery swap into LCD Deck? ([Currently doesn't work](https://www.ifixit.com/Answers/View/823192/Could+I+put+the+new+Steam+Deck+OLED+battery+into+the+original+Deck))
 - Type A (MEDA) vs Type B (MHDA) LCD joysticks comparison ([difference in capacitive touch and microcontroller?](https://www.ifixit.com/Guide/Steam+Deck+Left+Thumbstick+Replacement/148896))
+- Compile useful commands and tips for hardware modding
+- Get more info about panel types (BOE, Samsung etc...)
+- Get a list of all stock SSDs used in Steam Decks
