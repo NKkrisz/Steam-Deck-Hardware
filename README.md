@@ -1,10 +1,11 @@
 # Steam-Deck-Hardware
 **Information and guides about Steam Deck hardware and modifications - [For software stuff click here](https://github.com/NKkrisz/Steam-Deck-Software)**  
 **This project isn't associated with Valve and modifying your device will / may void your warranty.**  
+**This repository is for educational purposes and may contain mistakes, you're responsible for your own device.**  
 **None of the links are affiliated in any way or are included because of external payment.**  
-**If you're the owner of some content mentioned / contained in this repository and want it removed please [contact me (NKkrisz)](https://linktr.ee/nkkrisz)**
+**If you see a mistake or you're the owner of some content mentioned in this repository and want it removed please [contact me (NKkrisz)](https://linktr.ee/nkkrisz)**
 
-## 🧑‍💻 [How To Contribute To This Repository](./Markdown/Repository/Contribute.md) | [Credits And Sources](./Markdown/Repository/Credits.md) | [GitHub Repository](https://github.com/NKkrisz/Steam-Deck-Hardware)
+## 🧑‍💻 [Credits And Sources](./Markdown/Repository/Credits.md) | [GitHub Repository](https://github.com/NKkrisz/Steam-Deck-Hardware) | [How To Contribute](./Markdown/Repository/Contribute.md)
 
 ## 💵 How To Support Me (NKkrisz) And This Repository
 - Consider donating by clicking the button below:  
