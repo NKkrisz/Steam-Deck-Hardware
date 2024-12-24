@@ -4,15 +4,16 @@
 **None of the links are affiliated in any way or are included because of external payment.**  
 **If you're the owner of some content mentioned / contained in this repository and want it removed please [contact me (NKkrisz)](https://linktr.ee/nkkrisz)**
 
-## 🧑‍💻 [How To Contribute To This Repository](./Markdown/Repository/Contribute.md) | [Credits And Sources](./Markdown/Repository/Credits.md)
+## 🧑‍💻 [How To Contribute To This Repository](./Markdown/Repository/Contribute.md) | [Credits And Sources](./Markdown/Repository/Credits.md) | [GitHub Repository](https://github.com/NKkrisz/Steam-Deck-Hardware)
 
 ## 💵 How To Support Me (NKkrisz) And This Repository
 - Consider donating by clicking the button below:  
 [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nkkrisz)  
-- By doing so, I might be able to:
-    - Get a second used / faulty LCD Deck
-    - Upgrade to an OLED Deck which would enable further research
-    - Buy more expensive hardware for testing or for modifying Steam Decks
+    - By doing so, I might be able to:
+        - Get a second used / faulty LCD Deck
+        - Upgrade to an OLED Deck which would enable further research
+        - Buy more expensive hardware for testing, modifying or documenting Steam Deck stuff
+- Contribute with new content or fix mistakes!
 
 ## 👥 Hardware Modding Communities / Resources
 - [Steam Deck Discord - #hardware-mods channel](https://discord.gg/steamdeck)
@@ -81,27 +82,17 @@
 
 ## 🪛 Hardware Upgrades
 
-### [Wireless Connectivity (Wifi And Bluetooth)](./Markdown/Mods/Wireless.md)
-
-### [Storage (SSD And MicroSD)](./Markdown/Mods/Storage.md)
-
-### [Screen & Screen Protectors](./Markdown/Mods/Screen.md)
-
-### [Tracking Device (eg. AirTag)](https://www.reddit.com/r/SteamDeck/comments/1aojmq8/added_a_slim_airtag_to_my_steam_deck/)
-
-### [Memory / RAM](./Markdown/Mods/Memory.md)
-
-### [External GPU](https://www.reddit.com/r/SteamDeck/comments/1eqh47y/franken_deck_abomination/)
-
-### [Dual Battery](https://www.reddit.com/r/SteamDeck/comments/15r2ffl/steam_deck_duel_battery_upgrade/)
-
-### [Dual Screen](https://www.reddit.com/r/SteamDeckModded/comments/1en98vt/my_take_on_dual_screen/)
-
-### [Cooling](./Markdown/Mods/Cooling.md)
-
-### [Rumble](https://github.com/dawidmpunkt/rumble-for-steamdeck)
-
-### [Inputs](./Markdown/Mods/Inputs.md)
+- ### [Wireless Connectivity (Wifi And Bluetooth)](./Markdown/Mods/Wireless.md)
+- ### [Storage (SSD And MicroSD)](./Markdown/Mods/Storage.md)
+- ### [Screen & Screen Protectors](./Markdown/Mods/Screen.md)
+- ### [Tracking Device (eg. AirTag)](https://www.reddit.com/r/SteamDeck/comments/1aojmq8/added_a_slim_airtag_to_my_steam_deck/)
+- ### [Memory / RAM](./Markdown/Mods/Memory.md)
+- ### [External GPU](https://www.reddit.com/r/SteamDeck/comments/1eqh47y/franken_deck_abomination/)
+- ### [Dual Battery](https://www.reddit.com/r/SteamDeck/comments/15r2ffl/steam_deck_duel_battery_upgrade/)
+- ### [Dual Screen](https://www.reddit.com/r/SteamDeckModded/comments/1en98vt/my_take_on_dual_screen/)
+- ### [Cooling](./Markdown/Mods/Cooling.md)
+- ### [Rumble](https://github.com/dawidmpunkt/rumble-for-steamdeck)
+- ### [Inputs](./Markdown/Mods/Inputs.md)
 
 ## 🕹️ Accessories
 - [DeckMate - Backplate Addons](https://getmechanism.com/collections/shop-mechanism/deckmate)
@@ -180,7 +171,7 @@
 - [Steam Deck Chip Deep-Dive (Van Gogh/Aerith) - High Yield](https://www.youtube.com/watch?v=ERm1StY-4uY)
 - [Steam Deck Buttons And Joystick Mod For The Steam Controller](https://www.reddit.com/r/SteamControllerMods/comments/1erquuf/update_on_steam_deck_face_button_mod/) - [Tutorial](https://www.reddit.com/r/SteamControllerMods/comments/1exfzic/steam_controller_with_steam_deck_oled_face_button/)
  
-## TODO
+## 📜 TODO
 - Update old / add new info into Markdown files:
     - Carrying Cases
     - Other things...
@@ -197,3 +188,5 @@
 - Compile useful commands and tips for hardware modding
 - Get more info about panel types (BOE, Samsung etc...)
 - Get a list of all stock SSDs used in Steam Decks
+- Redo file structure (better management for images)
+- Optimize images to be smaller in file size for faster loading
