@@ -24,6 +24,9 @@
 - Upgrading from 64GB EMMC drive should be a noticeable speed bump in loading times
 
 ### Simple Method
+- Guides from iFixit:
+    - [Steam Deck LCD (64GB, 256GB, 512GB)](https://www.ifixit.com/Guide/Steam+Deck+SSD+Replacement/148989)
+    - [Steam Deck OLED (512GB, 1TB, Limited Edition Models)](https://www.ifixit.com/Guide/Steam+Deck+OLED+SSD+Replacement/168255)
 - The SSD should be single sided, NVMe M.2 2230
 - Lower power consumption is better
     - More battery life
