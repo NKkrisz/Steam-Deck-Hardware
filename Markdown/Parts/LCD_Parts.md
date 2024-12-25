@@ -34,17 +34,14 @@ F7A Revision Pads
 ![Kenfixed_LCD_Traces_2](../../Images/Traces/Kenfixed_LCD_Traces_2.png)
 
 ## Joystick
+- Uses PS5 pinouts
+- Thumbstick cap is capacitive (that's what the wire that's soldered to the module is for)
+- There are two Types (A or B)
 
 ### Backside Of Right Joystick
 ![Right Joystick Backside](../../Images/LCD/Production/Kenfixed_LCD_Joystick_Backside.png)
 
-### Joystick Pinouts & Distance Measurements (MIGHT BE WRONG AND USING PS5 PINOUT INSTEAD, NEEDS RE-MEASURING AND TESTING FOR TYPE A / B STICKS SEPARATELY)
-![Joystick Pinouts](../../Images/Measurements/Kenfixed_LCD_Joystick_Pinouts.png)
-
-### Pinouts Only
-![Pinouts Only](../../Images/Measurements/Kya_ufufu_Steam_Deck_And_Controller_Joystick_Pinouts.webp)
-
-### Other Controllers' Pinouts ([Source (?)](https://www.reddit.com/r/ConsoleRepairUK/comments/18i6al8/ps5_ps4_xbox_hall_effect_analog_stick_pinout/) - This Was Used For The Steam Deck Pinouts Edit)
+### Other Controllers' Pinouts ([Source (?)](https://www.reddit.com/r/ConsoleRepairUK/comments/18i6al8/ps5_ps4_xbox_hall_effect_analog_stick_pinout/))
 ![Other Pinouts](../../Images/Measurements/4nH3r0_Controller_Pinouts.webp)
 
 ## Additional information
