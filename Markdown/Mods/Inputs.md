@@ -2,6 +2,7 @@
 [Back To Main File](../../README.md)
 
 ## Joysticks
+- Make sure to calibrate after modification - [iFixit Steam Deck Joystick Calibration Guide](https://www.ifixit.com/Guide/How+to+Calibrate+Steam+Deck+Thumbsticks/150415)
 
 ### Hall Effect Joysticks
 - Gulikit
@@ -70,12 +71,14 @@
 - **Work in progress**
 
 ## Triggers
+- Make sure to calibrate after modification - [iFixit Steam Deck Trigger Calibration Guide](https://www.ifixit.com/Guide/How+to+Calibrate+Steam+Deck+Triggers/150411)
 
 ### Dual Stage Triggers
 - [3D printed parts + tactile switches](https://www.thingiverse.com/thing:6210987)
     - This model is only known to work with LCD Decks
 - Similar Feeling To Steam Controller ("click" feedback on full press)
 - Shouldn't interfere with trigger input values
+- [Testing video (W.I.P - Uses modified model)](https://www.youtube.com/watch?v=8woKzJrXp88)
 
 ## Other
 
