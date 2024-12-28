@@ -167,6 +167,7 @@
 - Steam Decks' brown cardboard shipping boxes have Valve references on them
 - In Japan the boxes that Steam Decks come in are different and have proper retail packaging and design
 - [You can wake up a docked Steam Deck (LCD too) with the Steam Controller](https://www.reddit.com/r/SteamDeck/comments/15c6h2x/you_can_wake_up_a_docked_steam_deck_with_the/)
+- [Steam Deck joystick caps fit on the Steam Controller and can be used as a replacement](https://www.youtube.com/shorts/JH8CmCkltzY)
 - [How The Giant Steam Deck Was Made For The Tokyo Game Show (2022)](./Markdown/Other/Giant_Steam_Deck_TGS_2022.md)
 - [Steam Deck RGB Mod - Part 1 - I2C Investigation - CalcProgrammer1](https://www.youtube.com/watch?v=CzuZNvp0MOQ)
 - [Steam Deck Chip Deep-Dive (Van Gogh/Aerith) - High Yield](https://www.youtube.com/watch?v=ERm1StY-4uY)
