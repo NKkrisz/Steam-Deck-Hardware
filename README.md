@@ -54,14 +54,11 @@
 |![White Limited Edition](./Images/OLED/Kenfixed_OLED_White_LE-Removebg.png) | **White Limited Edition - Some smaller changes are being introduced** |
 
 ### More Information About Both Can Be Found Here
-- [LCD Deck Specifications](https://www.steamdeck.com/en/tech/deck)
-- [OLED Deck Specifications](https://www.steamdeck.com/en/tech/oled)
-- [LCD Deck Revisions And Differences](./Markdown/Revisions/LCD_Revisions.md)
-- [OLED Deck Revisions And Differences](./Markdown/Revisions/OLED_Revisions.md)
+- Specifications: [LCD](https://www.steamdeck.com/en/tech/deck) | [OLED](https://www.steamdeck.com/en/tech/oled)
+- Revisions And Differences: [LCD](./Markdown/Revisions/LCD_Revisions.md) | [OLED](./Markdown/Revisions/OLED_Revisions.md)
+- Analysis Of Screen PWM Flicker & Visual Fatigue: [LCD](https://www.reddit.com/r/SteamDeck/comments/17yf90o/analysis_of_the_pwm_of_the_steam_deck_lcd_screen/) | [OLED](https://www.reddit.com/r/SteamDeck/comments/1882kys/analysis_of_the_pwmflickervisual_fatigue_of_the/)
 - [Comparison Video Between LCD And OLED Deck Components](https://www.youtube.com/watch?v=9jhRh11bTRA)
 - [Comparison Video Between LCD And OLED Deck Input Lag](https://www.youtube.com/watch?v=LkrV6VlGPIE)
-- [Analysis of LCD PWM Flicker & Visual Fatigue](https://www.reddit.com/r/SteamDeck/comments/17yf90o/analysis_of_the_pwm_of_the_steam_deck_lcd_screen/)
-- [Analysis of OLED PWM Flicker & Visual Fatigue](https://www.reddit.com/r/SteamDeck/comments/1882kys/analysis_of_the_pwmflickervisual_fatigue_of_the/)
 
 ## [🧰 Recommended Tools For Repairing / Modding](./Markdown/Other/Tools.md)
 
@@ -96,37 +93,42 @@
 - ### [Inputs](./Markdown/Mods/Inputs.md)
 
 ## 🕹️ Accessories
+
+### Docks
+- [Valve's Steam Deck Dock](https://www.steamdeck.com/en/dock)
+    - Gets firmware updates from Valve
+    - Comes with another Steam Deck charger
+    - Most likely needs an adapter if used with a case on (USB extension or fitment fix)
+    - Example adapter: [Project Killswitch - Steam Deck Dock Adapter From Dbrand](https://www.printables.com/model/411302-project-killswitch-steam-deck-dock-adapter)
+- Any brand should work but it's recommended to at least have USB-C PD (Power Delivery) so the Deck remains charged
+
+### Cases
+- Stock / Original (Older ones had strap, different models are differently colored, 1TB OLED has a removable inner case)
+- [Dbrand - Project Killswitch](https://dbrand.com/shop/grip/steam-deck-cases)
+- Jsaux
+    - [Modcase](https://jsaux.com/products/modcase-for-steam-deck-pc0104)
+    - [Protective Standing Case](https://jsaux.com/products/upgraded-protective-standing-case-for-steam-deck-pc0105)
+- [Spigen - Rugged Armor](https://www.spigen.com/collections/steam-deck/products/steam-deck-series-case-rugged-armor)
+- [Tomtoc - Armor-G12](https://www.tomtoc.com/products/armor-g12-steam-deck-case)
+- [Mepatem - 3 in 1 Case](https://www.amazon.com/dp/B0BRKWWJJ5)
+
+### Chargers
+- Official / Stock:
+    - Power Output: 45W
+    - Length: 1.5m (LCD) or 2.5m (OLED) (Both are compatible with any Steam Decks)
+    - USB-C PD3.0
+    - Non-removable cable
+- Recommendations / guidelines:
+    - 45W+ Output (If less the Deck might discharge during gaming)
+    - Needs USB PD (Power Delivery)
+    - Removable cable (To carry around any length needed)
+- Extra Strain Relief Solutions:
+    - USB-C 90 / 180 Degree Adapters
+    - [3D Printed Cable Relief](https://www.printables.com/model/218771-steam-deck-cable-strain-relief)
+- [Additional information about battery and charging](https://www.reddit.com/r/SteamDeck/comments/ub0ai4/a_few_important_things_about_charging_the_deck/)
+
+### Other
 - [DeckMate - Backplate Addons](https://getmechanism.com/collections/shop-mechanism/deckmate)
-- Docks
-    - [Valve's Steam Deck Dock](https://www.steamdeck.com/en/dock)
-        - Gets firmware updates from Valve
-        - Comes with another Steam Deck charger
-        - Most likely needs an adapter if used with a case on (USB extension or fitment fix)
-        - Example adapter: [Project Killswitch - Steam Deck Dock Adapter From Dbrand](https://www.printables.com/model/411302-project-killswitch-steam-deck-dock-adapter)
-    - Any brand should work but it's recommended to at least have USB-C PD (Power Delivery) so the Deck remains charged
-- Cases
-    - Stock / Original (Older ones had strap, different models are differently colored, 1TB OLED has a removable inner case)
-    - [Dbrand - Project Killswitch](https://dbrand.com/shop/grip/steam-deck-cases)
-    - Jsaux
-        - [Modcase](https://jsaux.com/products/modcase-for-steam-deck-pc0104)
-        - [Protective Standing Case](https://jsaux.com/products/upgraded-protective-standing-case-for-steam-deck-pc0105)
-    - [Spigen - Rugged Armor](https://www.spigen.com/collections/steam-deck/products/steam-deck-series-case-rugged-armor)
-    - [Tomtoc - Armor-G12](https://www.tomtoc.com/products/armor-g12-steam-deck-case)
-    - [Mepatem - 3 in 1 Case](https://www.amazon.com/dp/B0BRKWWJJ5)
-- Chargers
-    - Official / Stock:
-        - Power Output: 45W
-        - Length: 1.5m (LCD) or 2.5m (OLED) (Both are compatible with any Steam Decks)
-        - USB-C PD3.0
-        - Non-removable cable
-    - Recommendations / guidelines:
-        - 45W+ Output (If less the Deck might discharge during gaming)
-        - Needs USB PD (Power Delivery)
-        - Removable cable (To carry around any length needed)
-    - Extra Strain Relief Solutions:
-        - USB-C 90 / 180 Degree Adapters
-        - [3D Printed Cable Relief](https://www.printables.com/model/218771-steam-deck-cable-strain-relief)
-    - [Additional information about battery and charging](https://www.reddit.com/r/SteamDeck/comments/ub0ai4/a_few_important_things_about_charging_the_deck/)
 
 ## 🎮 Fully Transformed Steam Deck Examples
 - [RAM, Wifi, Shell, Joystick And Screen Upgrade](https://www.youtube.com/watch?v=HW1yAWZjGrk)
@@ -155,7 +157,7 @@
 - [iFixit EU](https://eustore.ifixit.com/collections/steam-deck-parts)
 - [iFixit AUS](https://australia.ifixit.com/collections/steam-deck-parts)
 
-### Do note that not everything is available in iFixit's stores, this includes:
+### Do note that not everything is available in the iFixit stores (different regions), this includes:
 - Trackpads
 - Mother / Daughterboards
 - Ribbon Cables
@@ -173,18 +175,18 @@
 - [Steam Deck Chip Deep-Dive (Van Gogh/Aerith) - High Yield](https://www.youtube.com/watch?v=ERm1StY-4uY)
 - [Steam Deck Buttons And Joystick Mod For The Steam Controller](https://www.reddit.com/r/SteamControllerMods/comments/1erquuf/update_on_steam_deck_face_button_mod/) - [Tutorial](https://www.reddit.com/r/SteamControllerMods/comments/1exfzic/steam_controller_with_steam_deck_oled_face_button/)
  
-## 📜 TODO
+## 📜 TODO (Bold items are in progress)
 - Update old / add new info into Markdown files:
     - Carrying Cases
     - Other things...
-- Get pictures of all LCD & OLED components (all sides)
-- Get more video footage of certain mods (eg. clicky buttons, dual-stage triggers)
+- **Get pictures of all LCD** & OLED **components (all sides)**
+- **Get more video footage of certain mods (eg. clicky buttons, dual-stage triggers)**
 - Add images of packaging (worldwide and Japanese versions)
 - Remove background of Steam Deck revision pictures manually
 - Separate EV2 and early production LCD Steam Decks in comparison table
-- Add info about more cooling mods (better fan, better heatsink, liquid cooling)
-- Add info about stiffer / stronger trigger mod (different / combination of springs)
-- DIY Hall-effect / TMR joysticks research and testing
+- **Add info about more cooling mods (better fan, better heatsink, liquid cooling)**
+- **Add info about stiffer / stronger trigger mod (different / combination of springs)**
+- **DIY Hall-effect / TMR joysticks research and testing**
 - OLED battery swap into LCD Deck? ([Currently doesn't work](https://www.ifixit.com/Answers/View/823192/Could+I+put+the+new+Steam+Deck+OLED+battery+into+the+original+Deck))
 - Type A (MEDA) vs Type B (MHDA) LCD joysticks comparison ([difference in capacitive touch and microcontroller?](https://www.ifixit.com/Guide/Steam+Deck+Left+Thumbstick+Replacement/148896))
 - Compile useful commands and tips for hardware modding
