@@ -18,6 +18,10 @@
     - [Standard](https://www.handhelddiy.com/products/steam-deck-oled-tighter-hall-joystick?variant=49363761398070)
     - Joystick caps have matte surface
     - Calibration on the joystick modules
+    - No issues reported so far
+
+### Custom Made Hall Effect / TMR Joystick (More info needed)
+- Might be better solution compared to current hall effect offerings from Gulikit / Elecgear
 
 ### Joystick Cap Swap
 - *Not Tested Yet - Basically OLED Joystick Caps Soldered To LCD Joystick Modules To Provide Better Grip And Look Better*
