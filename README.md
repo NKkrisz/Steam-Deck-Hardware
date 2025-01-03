@@ -43,7 +43,7 @@
 
 |![Older model (beginning of EV3) and an early model (EV2, sent out as dev kits)](./Images/LCD/iFixit_Valve_And_Old_LCD.png) | **Older model (beginning of EV3) and an early model (EV2, some early dev kits)** |
 |---|---|
-|![Newer revision with black shielding and other changes](./Images/LCD/iFixit_Newer_LCD.png) | **Newer revision with black shielding and other changes** |
+|![Newer revision with black shielding and other changes](./Images/LCD/iFixit_Newer_LCD.png) | **Newer revision with black shielding and other changes - [(What NKkrisz Owns, Click For Extra Details)](./Markdown/Revisions/LCD_64GB_Black_Shielded.md)** |
 
 ### OLED Version
 
@@ -145,6 +145,7 @@
 - [Steam Support - Basic Use & Troubleshooting Guide](https://help.steampowered.com/en/faqs/view/69E3-14AF-9764-4C28)
 - [iFixit - Steam Deck LCD Repair Guides](https://www.ifixit.com/Device/Steam_Deck)
 - [Steam Deck LCD Parts And Measurements](./Markdown/Parts/LCD_Parts.md)
+    - [64GB LCD Black Shielded Revision Part Pictures](./Markdown/Revisions/LCD_64GB_Black_Shielded.md)
 - [iFixit - Steam Deck OLED Repair Guides](https://www.ifixit.com/Device/Steam_Deck_OLED)
 - [Steam Deck OLED Parts And Measurements](./Markdown/Parts/OLED_Parts.md)
 - [Fixes For Other Issues](./Markdown/Other/Fixes.md)

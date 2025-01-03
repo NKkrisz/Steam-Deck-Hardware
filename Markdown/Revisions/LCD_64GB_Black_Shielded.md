@@ -1,4 +1,5 @@
 # LCD 64GB Black Shielded
+[Back To Main File](../../README.md)
 
 ## Details About This Steam Deck
 - Owned by NKkrisz (3rd Deck after first one had Wi-Fi issues and second one had black screen of death)
