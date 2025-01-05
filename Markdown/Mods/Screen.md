@@ -1,5 +1,4 @@
 # Screen Modifications And Screen Protectors
-[Back To Main File](../../README.md)
 
 ## Screen Upgrades
 - [DeckHD (LCD)](https://www.deckhd.com/)

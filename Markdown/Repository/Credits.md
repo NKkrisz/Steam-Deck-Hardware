@@ -1,5 +1,4 @@
 # Credits
-[Back To Main File](../../README.md)
 
 ## Images
 

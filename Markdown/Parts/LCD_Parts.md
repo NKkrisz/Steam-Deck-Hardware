@@ -1,5 +1,4 @@
 # Steam Deck LCD Parts And Measurements
-[Back To Main File](../../README.md)
 
 ## [Chip ID](https://www.ifixit.com/Guide/Steam+Deck+Chip+ID/147811)
 

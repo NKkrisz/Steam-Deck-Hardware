@@ -1,5 +1,4 @@
 # Wireless Connectivity (Wifi And Bluetooth) Upgrade
-[Back To Main File](../../README.md)
 
 ## Requirements
 - Knowledge about SMT soldering

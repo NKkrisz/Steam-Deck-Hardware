@@ -1,5 +1,4 @@
 # Input Modifications
-[Back To Main File](../../README.md)
 
 ## Joysticks
 - Make sure to calibrate after modification - [iFixit Steam Deck Joystick Calibration Guide](https://www.ifixit.com/Guide/How+to+Calibrate+Steam+Deck+Thumbsticks/150415)

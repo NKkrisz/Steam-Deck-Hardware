@@ -1,5 +1,4 @@
 # Storage Modifications
-[Back To Main File](../../README.md)
 
 ## Micro SD Card Guide
 - [A guide to speed classes for SD and microSD Cards by Kingston](https://www.kingston.com/unitedkingdom/en/blog/personal-storage/memory-card-speed-classes)

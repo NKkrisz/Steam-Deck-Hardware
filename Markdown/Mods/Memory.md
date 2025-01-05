@@ -1,5 +1,4 @@
 # Memory / RAM Upgrade
-[Back To Main File](../../README.md)
 
 ## Requirements
 - Knowledge about BGA soldering

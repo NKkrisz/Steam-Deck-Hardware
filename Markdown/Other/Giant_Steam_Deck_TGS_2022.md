@@ -1,5 +1,4 @@
 # Giant Steam Deck (Tokyo Game Show 2022)
-[Back To Main File](../../README.md)
 
 ![Giant Steam Deck 1](../../Images/Giant_Steam_Deck_TGS/OnDeckJP_Giant_LCD_Deck_TGS_1.jpg)
 ![Giant Steam Deck 2](../../Images/Giant_Steam_Deck_TGS/OnDeckJP_Giant_LCD_Deck_TGS_2.jpg)

@@ -1,5 +1,4 @@
 # Steam Deck Prototypes
-[Back To Main File](../../README.md)
 
 ![Steam Deck Press Kit Prototypes 1](../../Images/Prototypes/Valve_Prototypes_1.jpg)
 ![Steam Deck Press Kit Prototypes 2](../../Images/Prototypes/Valve_Prototypes_2.jpg)

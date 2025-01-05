@@ -1,5 +1,4 @@
 # Steam Deck Pre Mass Production Units (EV2)
-[Back To Main File](../../README.md)
 
 ## Valve Early Steam Deck Dev Kits
 ![Valve Dev Kit (1)](../../Images/LCD/EV2/Valve_Dev_Kit_1.png)
