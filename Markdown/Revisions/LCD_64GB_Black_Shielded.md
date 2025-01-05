@@ -29,7 +29,7 @@
 ## Images
 - Made with Canon EOS 650D + EF-S 18-135mm
 - Edited slightly with Darktable
-- Took days to shoot (had to constantly retake some due to tiny mistakes)
+- Took days / weeks to disassemble my Deck, shoot the images and then reassemble (had to constantly retake some pictures due to tiny mistakes)
     - Might retake some later when I have to disassemble my Steam Deck again
 - The grid is made of 1x1cm squares
 - Images in the repository are named as such:
@@ -38,6 +38,15 @@
     - B - Bottom
     - L - Left
     - R - Right
+
+## Find The Info Here Useful? Here's How To Support Me And This Repository!
+- Consider donating by clicking the button below:  
+[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nkkrisz)  
+    - By doing so, I might be able to:
+        - Get a second used / faulty LCD Deck
+        - Upgrade to an OLED Deck which would enable further research
+        - Buy more expensive hardware for testing, modifying or documenting Steam Deck stuff
+- Contribute with new content or fix mistakes!
 
 ### Backplate
 ![Backplate Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Backplate_T.png)
