@@ -23,9 +23,10 @@
     - The previous Deck was silver shielded revision with strapped case
 
 ## Images
-- **Click on the images to get redirect to their higher quality version**
+- **If you want to use these somewhere please credit me in some way be it [nkkrisz.com](https://nkkrisz.com) or [this site](https://hardware.steamdeck.guide) and don't remove the watermarks, thank you! You can also click on the images to get redirected to their higher quality version.**
 - Made with Canon EOS 650D + EF-S 18-135mm
 - Edited slightly with Darktable
+- Compressed images with Photopea
 - Took days / weeks to disassemble my Deck, shoot the images and then reassemble (had to constantly retake some pictures due to tiny mistakes)
     - Might retake some later when I have to disassemble my Steam Deck again
 - The grid is made of 1x1cm squares
