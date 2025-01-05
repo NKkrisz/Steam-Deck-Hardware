@@ -129,6 +129,8 @@
 
 ### Other
 - [DeckMate - Backplate Addons](https://getmechanism.com/collections/shop-mechanism/deckmate)
+- ["Lifesaver" Carrying Case Insert (For Drop Protection)](https://www.printables.com/model/254680-steam-deck-lifesaver-drop-protection)
+- [Repair Jig (Or Use The Stock Carrying Case)](https://www.printables.com/model/167283-steam-deck-repair-jig-fixed)
 
 ## 🎮 Fully Transformed Steam Deck Examples
 - [RAM, Wifi, Shell, Joystick And Screen Upgrade](https://www.youtube.com/watch?v=HW1yAWZjGrk)
