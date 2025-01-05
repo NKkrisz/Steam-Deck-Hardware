@@ -1,19 +1,15 @@
 # LCD 64GB Black Shielded
 [Back To Main File](../../README.md)
 
-## Warning
-- This page has 42 images on it which are 800MB+ in total, it may slow your browser / device down or consume too much mobile data
-    - I didn't want to compress the images as the details here are important
-- To view each image individually [go here](https://github.com/NKkrisz/Steam-Deck-Hardware/tree/main/Images/LCD/Black_Shielded_64GB_2024_January)
-
 ## Details About This Steam Deck
-- Owned by NKkrisz (3rd Deck after first one had Wi-Fi issues and second one had black screen of death)
+- Owned By NKkrisz (3rd Deck after first one had Wi-Fi issues and second one had black screen of death)
 - Delta Fan
 - Foresee 64GB EMMC Storage
 - Type B Joysticks
-- Black Shield / Cooling
+- Black Shield
 - Newer Motherboard Design
 - No Strap In Carrying Case
+- Less Cables
 
 ## RMA Experience (2024, January, EU,)
 - The Deck was shell swapped and got black screen of death after disassembling again
@@ -27,6 +23,7 @@
     - The previous Deck was silver shielded revision with strapped case
 
 ## Images
+- **Click on the images to get redirect to their higher quality version**
 - Made with Canon EOS 650D + EF-S 18-135mm
 - Edited slightly with Darktable
 - Took days / weeks to disassemble my Deck, shoot the images and then reassemble (had to constantly retake some pictures due to tiny mistakes)
@@ -41,7 +38,7 @@
 
 ## Find The Info Here Useful? Here's How To Support Me And This Repository!
 - Consider donating by clicking the button below:  
-[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nkkrisz)  
+[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nkkrisz)
     - By doing so, I might be able to:
         - Get a second used / faulty LCD Deck
         - Upgrade to an OLED Deck which would enable further research
@@ -49,97 +46,99 @@
 - Contribute with new content or fix mistakes!
 
 ### Backplate
-![Backplate Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Backplate_T.png)
-![Backplate Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Backplate_B.png)
+[![Backplate Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Backplate_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Backplate_T.png)
+[![Backplate Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Backplate_B.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Backplate_B.png)
 
 ### Frontplate
-![Frontplate Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Frontplate_T.png)
-![Frontplate Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Frontplate_B.png)
+[![Frontplate Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Frontplate_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Frontplate_T.png)
+[![Frontplate Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Frontplate_B.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Frontplate_B.png)
 
 ### Black Shield
-![Black Shield Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Black_Shield_T.png)
-![Black Shield Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Black_Shield_B.png)
+[![Black Shield Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Black_Shield_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Black_Shield_T.png)
+[![Black Shield Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Black_Shield_B.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Black_Shield_B.png)
 
 ### Motherboard
-![Motherboard Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Motherboard_T.png)
-![Motherboard Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Motherboard_B.png)
+[![Motherboard Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Motherboard_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Motherboard_T.png)
+[![Motherboard Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Motherboard_B.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Motherboard_B.png)
 
 #### Closer Images
-![Motherboard Close Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Motherboard_Close_T.png)
-![Motherboard Close Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Motherboard_Close_B.png)
+[![Motherboard Close Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Motherboard_Close_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Motherboard_Close_T.png)
+[![Motherboard Close Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Motherboard_Close_B.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Motherboard_Close_B.png)
 
 ### Cooling
-![Cooling Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Cooling_T.png)
-![Cooling Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Cooling_B.png)
+[![Cooling Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Cooling_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Cooling_T.png)
+[![Cooling Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Cooling_B.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Cooling_B.png)
 
 ### Audio Board
-![Audio Board Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Audio_Board_T.png)
-![Audio Board Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Audio_Board_B.png)
+[![Audio Board Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Audio_Board_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Audio_Board_T.png)
+[![Audio Board Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Audio_Board_B.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Audio_Board_B.png)
 
 ### Button Boards
 
 #### Left
-![Left Button Board Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Button_Board_T.png)
-![Left Button Board Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Button_Board_B.png)
+[![Left Button Board Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_L_Button_Board_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Button_Board_T.png)
+[![Left Button Board Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_L_Button_Board_B.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Button_Board_B.png)
 
 #### Right
-![Right Button Board Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Button_Board_T.png)
-![Right Button Board Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Button_Board_B.png)
+[![Right Button Board Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_R_Button_Board_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Button_Board_T.png)
+[![Right Button Board Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_R_Button_Board_B.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Button_Board_B.png)
 
 ### Joysticks
 
 #### Left
-![Left Joystick Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Joystick_T.png)
-![Left Joystick Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Joystick_B.png)
+[![Left Joystick Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_L_Joystick_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Joystick_T.png)
+[![Left Joystick Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_L_Joystick_B.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Joystick_B.png)
 
 #### Right
-![Right Joystick Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Joystick_T.png)
-![Right Joystick Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Joystick_B.png)
+[![Right Joystick Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_R_Joystick_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Joystick_T.png)
+[![Right Joystick Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_R_Joystick_B.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Joystick_B.png)
 
 ### Triggers
 
 #### Left
-![Left Trigger Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Trigger_T.png)
-![Left Trigger Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Trigger_B.png)
+[![Left Trigger Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_L_Trigger_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Trigger_T.png)
+[![Left Trigger Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_L_Trigger_B.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Trigger_B.png)
 
 #### Right
-![Right Trigger Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Trigger_T.png)
-![Right Trigger Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Trigger_B.png)
+[![Right Trigger Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_R_Trigger_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Trigger_T.png)
+[![Right Trigger Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_R_Trigger_B.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Trigger_B.png)
 
 ### Bumpers & Buttons
 
 #### Left
-![Left Trigger Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Buttons_Bumper_T.png)
-![Left Trigger Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Buttons_Bumper_B.png)
+[![Left Trigger Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_L_Buttons_Bumper_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Buttons_Bumper_T.png)
+[![Left Trigger Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_L_Buttons_Bumper_B.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Buttons_Bumper_B.png)
 
 #### Right
-![Right Trigger Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Buttons_Bumper_T.png)
-![Right Trigger Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Buttons_Bumper_B.png)
+[![Right Trigger Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_R_Buttons_Bumper_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Buttons_Bumper_T.png)
+[![Right Trigger Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_R_Buttons_Bumper_B.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Buttons_Bumper_B.png)
 
 ### Trackpads
 
 #### Left
-![Left Trackpad Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Trackpad_T.png)
-![Left Trackpad Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Trackpad_B.png)
+[![Left Trackpad Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_L_Trackpad_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Trackpad_T.png)
+[![Left Trackpad Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_L_Trackpad_B.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_L_Trackpad_B.png)
 
 #### Right
-![Right Trackpad Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Trackpad_T.png)
-![Right Trackpad Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Trackpad_B.png)
+[![Right Trackpad Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_R_Trackpad_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Trackpad_T.png)
+[![Right Trackpad Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_R_Trackpad_B.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_R_Trackpad_B.png)
 
 ### Other Parts
 
 #### Inner Remainings
-![Inner Remainings](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Inner_Remaining_Parts.png)
+Battery, Midframe, Power & Volume Buttons, Cables, Ambient Light Sensor
+[![Inner Remainings](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Inner_Remaining_Parts.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Inner_Remaining_Parts.png)
 
 #### Outer Remainings
-![Outer Remainings](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Outer_Remaining_Parts.png)
+Display
+[![Outer Remainings](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Outer_Remaining_Parts.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Outer_Remaining_Parts.png)
 
 #### Carrying Case
-![Carrying Case Outer Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Case_Outer_T.png)
-![Carrying Case Outer Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Case_Outer_B.png)
-![Carrying Case Inner Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Case_Inner_T.png)
-![Carrying Case Inner Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Case_Inner_B.png)
+[![Carrying Case Outer Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Case_Outer_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Case_Outer_T.png)
+[![Carrying Case Outer Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Case_Outer_B.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Case_Outer_B.png)
+[![Carrying Case Inner Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Case_Inner_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Case_Inner_T.png)
+[![Carrying Case Inner Bottom](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Case_Inner_B.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Case_Inner_B.png)
 
 #### Charger
-![Charger Top](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Charger_Top.png)
-![Charger Side](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Charger_Side.png)
+[![Charger Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Charger_Top.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Charger_Top.png)
+[![Charger Side](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Charger_Side.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Charger_Side.png)
