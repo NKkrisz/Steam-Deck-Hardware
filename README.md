@@ -118,6 +118,7 @@
     - Length: 1.5m (LCD) or 2.5m (OLED) (Both are compatible with any Steam Decks)
     - USB-C PD3.0
     - Non-removable cable
+    - Replacements can be had from iFixit or Steam Support in case it got lost / damaged
 - Recommendations / guidelines:
     - 45W+ Output (If less the Deck might discharge during gaming)
     - Needs USB PD (Power Delivery)
