@@ -41,16 +41,17 @@
 ### LCD Version
 - Easily differentiable older / newer revision by looking at shielding above the motherboard
 
-|![Older model (beginning of EV3) and an early model (EV2, sent out as dev kits)](./Images/LCD/iFixit_Valve_And_Old_LCD.png) | **Older model (beginning of EV3) and an early model (EV2, some early dev kits)** |
+|Image|Description|
 |---|---|
-|![Newer revision with black shielding and other changes](./Images/LCD/iFixit_Newer_LCD.png) | **Newer revision with black shielding and other changes - [(What NKkrisz Owns, Click For Extra Details)](./Markdown/Revisions/LCD_64GB_Black_Shielded.md)** |
+|![Older model (beginning of EV3) and an early model (EV2, sent out as dev kits)](./Images/LCD/iFixit_Valve_And_Old_LCD.png) | **Older model (beginning of EV3) and an early model (EV2, some early dev kits)** |
+|![Newer revision with black shielding and other changes](./Images/LCD/iFixit_Newer_LCD.png) | **Newer revision with black shielding and other changes </br> [(What NKkrisz Owns, Click For Extra Details)](./Markdown/Revisions/LCD_64GB_Black_Shielded.md)** |
 
 ### OLED Version
 
+|Image|Description|
+|---|---|
 |![Normal OLED](./Images/OLED/Dex_OLED_2024_Nov-Removebg.png) | **Stock OLED (2024. November purchase) - Some smaller changes are being introduced (eg. SK Hynix RAM?)** |
-|---|---|
 |![Transparent Black Limited Edition](./Images/OLED/KenFixed_OLED_LE.png) | **Transparent Black Limited Edition (only some accents and shell different)** |
-|---|---|
 |![White Limited Edition](./Images/OLED/Kenfixed_OLED_White_LE-Removebg.png) | **White Limited Edition - Some smaller changes are being introduced** |
 
 ### More Information About Both Can Be Found Here
