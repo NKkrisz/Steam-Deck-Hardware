@@ -90,9 +90,7 @@
 - ### [Dual Battery](https://www.reddit.com/r/SteamDeck/comments/15r2ffl/steam_deck_duel_battery_upgrade/)
 - ### [Dual Screen](https://www.reddit.com/r/SteamDeckModded/comments/1en98vt/my_take_on_dual_screen/)
 - ### [Cooling](./Markdown/Mods/Cooling.md)
-- ### Rumble
-    - [Extra Motors From Switch Joycons](https://www.reddit.com/r/SteamDeckModded/comments/14zse0s/steam_deck_vibrationmotor_upgrade/)
-    - [RumbleSticks (More Detailed Research)](https://github.com/dawidmpunkt/rumble-for-steamdeck)
+- ### [Rumble](./Markdown/Mods/Rumble.md)
 - ### [Inputs](./Markdown/Mods/Inputs.md)
 
 ## 🕹️ Accessories
