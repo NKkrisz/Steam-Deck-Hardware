@@ -21,6 +21,7 @@
 
 ## SSD Upgrade / Swap
 - Upgrading from 64GB EMMC drive should be a noticeable speed bump in loading times
+- [Backup / Clone And Restore SSD With Clonezilla](https://www.howtogeek.com/879217/how-to-back-up-your-steam-deck-with-clonezilla/)
 
 ### Simple Method
 - Guides from iFixit:
