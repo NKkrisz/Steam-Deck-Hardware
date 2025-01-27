@@ -144,6 +144,7 @@
 - [Portal Edition](https://www.reddit.com/r/SteamDeckModded/comments/1bib04o/introducing_the_steam_deck_oled_portal_edition/)
 - [Fully Red](https://www.reddit.com/r/SteamDeck/comments/1cialbj/great_never_again/)
 - [GabeCube](https://www.reddit.com/r/SteamDeck/comments/1crzpaq/my_gabecube_is_finally_complete_switch_2_looking/)
+- [Steam Brick - Steam Deck To MiniPC Conversion For AR Glasses](https://crastinator-pro.github.io/steam-brick/)
 
 ## 🧑‍🔧 Troubleshooting, Repair Guides, Parts And Measurements
 - [Steam Support - Basic Use & Troubleshooting Guide](https://help.steampowered.com/en/faqs/view/69E3-14AF-9764-4C28)
