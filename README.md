@@ -129,8 +129,17 @@
     - [3D Printed Cable Relief](https://www.printables.com/model/218771-steam-deck-cable-strain-relief)
 - [Additional information about battery and charging](https://www.reddit.com/r/SteamDeck/comments/ub0ai4/a_few_important_things_about_charging_the_deck/)
 
+### 3D Printable
+- [DeckMate - Backplate Addons (purchasable)](https://getmechanism.com/collections/shop-mechanism/deckmate)
+- [Twystlock - Backplate Addons (No supports or hardware required)](https://twystlock.com)
+    - Foldable Sun Shade
+    - Belly Stand
+    - Kick Stand
+    - Wall Mount
+    - VESA 75mm Bracket
+    - VESA 100mm Bracket
+
 ### Other
-- [DeckMate - Backplate Addons](https://getmechanism.com/collections/shop-mechanism/deckmate)
 - ["Lifesaver" Carrying Case Insert (For Drop Protection)](https://www.printables.com/model/254680-steam-deck-lifesaver-drop-protection)
 - [Repair Jig (Or Use The Stock Carrying Case)](https://www.printables.com/model/167283-steam-deck-repair-jig-fixed)
 
