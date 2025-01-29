@@ -20,13 +20,13 @@ Answers for Frequently Asked Questions related to the Steam Deck.
     - Not all software is available or works under SteamOS (Linux)
         - Competitive games that have anti-cheats most likely don't work (eg. Call Of Duty, Fortnite)
         - Under SteamOS specifically flatpaks are the way to go limiting your choices even more (immutable distro)
-    - Modding games might be harder (specifically non-Steam-workshop modding)
+    - Modding games might be harder (specifically non-Steam-Workshop modding)
     - Frame-generation isn't that good on Linux yet
 - Need for portability
     - If it would be mostly docked a console or a PC might be a better choice
 - Other uses
     - Media consumption, doing work etc...
-        - Might benefit from a larger screen, built in keyboard or more ports which the Steam Deck lacks
+        - Might benefit from a larger screen, built in keyboard or more ports which the Steam Deck lacks (unless a hub / dock is used)
 
 ## Comparisons
 - Laptop
@@ -40,7 +40,7 @@ Answers for Frequently Asked Questions related to the Steam Deck.
     - Xbox Series S/X
 
 ## Sales
-- [Steam Sales]()
+- [Steam Sales](https://steamdb.info/sales/history/)
 - Previous Steam Deck Sales
     - LCD
     - OLED
@@ -56,7 +56,7 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - Docks
 - Cases
 - External monitors
-- VR headsets / XR glasses
+- VR headsets & AR / XR glasses
 - [Manufacturer list](Manufacturer_List.md)
 
 ## Hardware
@@ -79,7 +79,8 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - [Does ***INSERT GAME'S NAME*** work under Linux / on Deck? + Deck Verified program](Game_Compability.md)
 - [Other storefronts / launchers](Launchers.md)
 - Game / Quick Access Menu (QAM) settings
-- Top played games on Deck
+- Steam Input / Controller Templates
+- [Top played games on Deck](https://store.steampowered.com/charts/steamdecktopplayed)
 - Recommendations
 
 ## Other Resources / Communities
