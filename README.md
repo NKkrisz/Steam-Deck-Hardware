@@ -131,6 +131,7 @@
 
 ### Other
 - [DeckMate - Backplate Addons](https://getmechanism.com/collections/shop-mechanism/deckmate)
+    - [Deckmate Killswitch Adapter (3D Print)](https://www.printables.com/model/387510-deckmate-killswitch-adapter)
 - ["Lifesaver" Carrying Case Insert (For Drop Protection)](https://www.printables.com/model/254680-steam-deck-lifesaver-drop-protection)
 - [Repair Jig (Or Use The Stock Carrying Case)](https://www.printables.com/model/167283-steam-deck-repair-jig-fixed)
 
