@@ -59,9 +59,19 @@
 ## Buttons
 
 ### Clicky Buttons
-- [ExtremeRate clicky buttons (LCD & OLED)](https://extremerate.com/collections/for-steam-deck-clicky-kit)
+- [ExtremeRate Clicky Buttons (LCD & OLED)](https://extremerate.com/collections/for-steam-deck-clicky-kit)
     - [Sound and feeling can be changed to be a bit more quiet and less tactile by putting painters tape on the buttons](https://www.reddit.com/r/SteamDeckModded/comments/1hewzl7/achieving_a_quieter_tactile_buttons_dpad_w_the/)
     - ![Taped ExtremeRate Clicky Kit](../../Images/Other/JustTheEngineer_Clicky_Taped.jpeg)
+- [DIY Method With Mouse Buttons (Cheaper too!)](https://www.reddit.com/r/SteamDeckModded/comments/1igzmr4/this_diy_clicky_buttons_mod_cost_me_2_bucks_but/)
+    - [Video of how it sounds](https://imgur.com/a/MxtREr9)
+    - Instructions:
+        - Get mouse switches (eg. Omron, Kailh)
+        - Take off flex board
+        - Scrape off coating
+        - Solder on the switches
+            - Maybe put something (eg. copper sheet) behind the board for better heat transfer
+        - Shave off edges on the buttons and brackets around the buttons on the shell
+    - ![DIY Clicky Buttons](../../Images/Other/Dvijetrecine_DIY_Mouse_Clicky_Buttons.webp)
 
 ### Back Button Extensions
 - [Playvital](https://playvital.com/collections/back-button-enhancement)
