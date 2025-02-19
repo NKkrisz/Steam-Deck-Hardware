@@ -1,15 +1,15 @@
 # Steam Deck Hardware Guide
-**Information and guides about Steam Deck hardware and modifications - [Steam Deck Software Guide (W.I.P)](https://software.steamdeck.guide)**  
-**This project isn't associated with Valve and modifying your device will / may void your warranty.**  
-**This repository is for educational purposes and may contain mistakes, you're responsible for your own device.**  
-**None of the links are affiliated in any way or are included because of external payment.**  
+**Information and guides about Steam Deck hardware and modifications - [Steam Deck Software Guide (W.I.P)](https://software.steamdeck.guide)**
+**This project isn't associated with Valve and modifying your device will / may void your warranty.**
+**This repository is for educational purposes and may contain mistakes, you're responsible for your own device.**
+**None of the links are affiliated in any way or are included because of external payment.**
 **If you see a mistake or you're the owner of some content mentioned in this repository and want it removed please [contact me (NKkrisz)](https://linktr.ee/nkkrisz)**
 
 ## 🧑‍💻 [Credits And Sources](./Markdown/Repository/Credits.md) | [GitHub Repository](https://github.com/NKkrisz/Steam-Deck-Hardware) | [How To Contribute](./Markdown/Repository/Contribute.md)
 
 ## 💵 How To Support Me (NKkrisz) And This Repository
-- Consider donating by clicking the button below:  
-[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nkkrisz)  
+- Consider donating by clicking the button below:
+[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nkkrisz)
     - By doing so, I might be able to:
         - Get a second used / faulty LCD Deck
         - Upgrade to an OLED Deck which would enable further research
@@ -181,19 +181,21 @@
 - [Steam Deck RGB Mod - Part 1 - I2C Investigation - CalcProgrammer1](https://www.youtube.com/watch?v=CzuZNvp0MOQ)
 - [Steam Deck Chip Deep-Dive (Van Gogh/Aerith) - High Yield](https://www.youtube.com/watch?v=ERm1StY-4uY)
 - [Steam Deck Buttons And Joystick Mod For The Steam Controller](https://www.reddit.com/r/SteamControllerMods/comments/1erquuf/update_on_steam_deck_face_button_mod/) - [Tutorial](https://www.reddit.com/r/SteamControllerMods/comments/1exfzic/steam_controller_with_steam_deck_oled_face_button/)
- 
+
 ## 📜 TODO (Bold items are in progress)
+- **Add info about stiffer / stronger trigger mod (different / combination of springs)**
+- **Get more video footage of certain mods (eg. clicky buttons, dual-stage triggers)**
+- **Add info about more cooling mods (better fan, better heatsink, liquid cooling)**
+- **Get pictures of all LCD** & OLED **components (all sides)**
+- **DIY Hall-effect / TMR joysticks research and testing**
+- **Get DeckSight (LCD to OLED swap) and test it**
+- **Make a cool [main page](https://steamdeck.guide) for all the guides**
 - Update old / add new info into Markdown files:
     - Carrying Cases
     - Other things...
-- **Get pictures of all LCD** & OLED **components (all sides)**
-- **Get more video footage of certain mods (eg. clicky buttons, dual-stage triggers)**
 - Add images of packaging (worldwide and Japanese versions)
 - Remove background of Steam Deck revision pictures manually
 - Separate EV2 and early production LCD Steam Decks in comparison table
-- **Add info about more cooling mods (better fan, better heatsink, liquid cooling)**
-- **Add info about stiffer / stronger trigger mod (different / combination of springs)**
-- **DIY Hall-effect / TMR joysticks research and testing**
 - OLED battery swap into LCD Deck? ([Currently doesn't work](https://www.ifixit.com/Answers/View/823192/Could+I+put+the+new+Steam+Deck+OLED+battery+into+the+original+Deck))
 - Type A (MEDA) vs Type B (MHDA) LCD joysticks comparison ([difference in capacitive touch and microcontroller?](https://www.ifixit.com/Guide/Steam+Deck+Left+Thumbstick+Replacement/148896))
 - Compile useful commands and tips for hardware modding
