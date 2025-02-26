@@ -146,6 +146,7 @@
 - [Fully Red](https://www.reddit.com/r/SteamDeck/comments/1cialbj/great_never_again/)
 - [GabeCube](https://www.reddit.com/r/SteamDeck/comments/1crzpaq/my_gabecube_is_finally_complete_switch_2_looking/)
 - [Steam Brick - Steam Deck To MiniPC Conversion For AR Glasses](https://crastinator-pro.github.io/steam-brick/)
+- [Steam Deck Console Concept](https://www.reddit.com/r/SteamDeck/comments/1iv7qlf/i_made_a_steamdeck_console_concept/)
 
 ## 🧑‍🔧 Troubleshooting, Repair Guides, Parts And Measurements
 - [Steam Support - Basic Use & Troubleshooting Guide](https://help.steampowered.com/en/faqs/view/69E3-14AF-9764-4C28)
