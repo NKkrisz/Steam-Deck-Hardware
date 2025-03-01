@@ -72,6 +72,8 @@
             - Maybe put something (eg. copper sheet) behind the board for better heat transfer
         - Shave off edges on the buttons and brackets around the buttons on the shell
     - ![DIY Clicky Buttons](../../Images/Other/Dvijetrecine_DIY_Mouse_Clicky_Buttons.webp)
+    - [Another Attempt with Omron B3FS-1000P Buttons](https://www.reddit.com/r/SteamDeckModded/comments/1izgji8/yet_another_clicky_buttons_mod/)
+        - ![DIY Clicky Buttons #2](../../Images/Other/Dvijetrecine_DIY_Clicky_2_Finished_ABXY.webp)
 
 ### Back Button Extensions
 - [Playvital](https://playvital.com/collections/back-button-enhancement)
