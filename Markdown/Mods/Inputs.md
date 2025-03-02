@@ -1,23 +1,31 @@
 # Input Modifications
 
 ## Joysticks
-- Make sure to calibrate after modification - [iFixit Steam Deck Joystick Calibration Guide](https://www.ifixit.com/Guide/How+to+Calibrate+Steam+Deck+Thumbsticks/150415)
+- LCD Steam Decks have 2 different versions (revision) because [capacitive touch was changed in some way(?)](https://www.ifixit.com/Guide/Steam+Deck+Left+Thumbstick+Replacement/148896)
+    - To know which one you have go to Settings -> System and check the Steam Deck Controller ID
+        - MEDA - Type A
+        - MHDA - Type B
+    - Make sure to buy the correct replacements if necessary (3rd party joysticks might have a switch on them to work as any type)
+- Make sure to calibrate after modification (replacing the modules or adding silicone ring etc...) - [iFixit Steam Deck Joystick Calibration Guide](https://www.ifixit.com/Guide/How+to+Calibrate+Steam+Deck+Thumbsticks/150415)
 
 ### Hall Effect Joysticks
 - Gulikit
     - [LCD version](https://www.gulikit.com/productinfo/1026071.html)
+        - This has 2 versions
+            - The 1st version didn't have the cap included and required soldering on the old one from the stock stick
+            - The 2nd version has the cap included, no soldering is required
     - [OLED version](https://www.gulikit.com/productinfo/1215825.html)
     - Both have issues with outer deadzone being square
 - ElecGear (Only For LCD)
     - Might have issues with deadzones?
-    - Calibration issues when pressing joysticks in a certain way? (Read reviews)
+    - [Calibration issues when pressing joysticks in a certain way? (Read reviews)](https://www.amazon.com/gp/customer-reviews/R1B0UC03JGZM4?ref=pf_vv_at_pdctrvw_srp)
 - [More information about the two / comparison](https://www.reddit.com/r/SteamDeck/comments/15c4ppn/comment/jwfxsxt/)
 - HandheldDIY (Only For OLED)
     - [Tight (Increased rotational resistance)](https://www.handhelddiy.com/products/steam-deck-oled-tighter-hall-joystick?variant=49363761430838)
     - [Standard](https://www.handhelddiy.com/products/steam-deck-oled-tighter-hall-joystick?variant=49363761398070)
     - Joystick caps have matte surface
     - Calibration on the joystick modules
-    - No issues reported so far
+    - Quality Control not the greatest(?) (Read reviews)
 
 ### Custom Made Hall Effect / TMR Joystick (More info needed)
 - Might be better solution compared to current hall effect offerings from Gulikit / Elecgear
@@ -37,7 +45,6 @@
 ### Silicone Joystick Protector Rings
 - Benefits:
     - Multiple colors available for extra customization
-    - Make sure to recalibrate after installing them
     - Sticks don't make noise hitting the shell
     - Stem won't have wear marks
     - Smooth movement remains
