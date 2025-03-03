@@ -72,12 +72,12 @@
 - [DIY Method With Mouse Buttons (Cheaper too!)](https://www.reddit.com/r/SteamDeckModded/comments/1igzmr4/this_diy_clicky_buttons_mod_cost_me_2_bucks_but/)
     - [Video of how it sounds](https://imgur.com/a/MxtREr9)
     - Instructions:
-        - Get mouse switches (eg. Omron, Kailh)
-        - Take off flex board
-        - Scrape off coating
-        - Solder on the switches
+        1. Get mouse switches (eg. Omron, Kailh)
+        2. Take off flex board
+        3. Scrape off coating
+        4. Solder on the switches
             - Maybe put something (eg. copper sheet) behind the board for better heat transfer
-        - Shave off edges on the buttons and brackets around the buttons on the shell
+        5. Shave off edges on the buttons and brackets around the buttons on the shell
     - ![DIY Clicky Buttons](../../Images/Other/Dvijetrecine_DIY_Mouse_Clicky_Buttons.webp)
     - [Another Attempt with Omron B3FS-1000P Buttons](https://www.reddit.com/r/SteamDeckModded/comments/1izgji8/yet_another_clicky_buttons_mod/)
         - ![DIY Clicky Buttons #2](../../Images/Other/Dvijetrecine_DIY_Clicky_2_Finished_ABXY.webp)
