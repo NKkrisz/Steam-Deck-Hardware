@@ -38,6 +38,30 @@
 4. Solder joystick caps from the hall effect stick to the original ones
 5. Test if everything works correctly
 
+#### How To Add Capacitive Touch to Non-Steam Deck Joysticks
+> Capacitive touch is one wire connected to a copper plate.  
+> That circular plate is glued on the top of the cap.  
+> With a bit of patience you can remove it from original joystick cap and install it on any cap you want (that fits the Steam Deck, of course).  
+> u/dvijetrecine
+
+> Yes but how do you make it not look janky?  
+> u/NKkrisz
+
+> Only part that could look jank is the top of the stick.  
+> The way I'd do it is get a big hole punch and rotate it till it cuts the middle part of the cap.  
+> Then use the scalpel knife to go underneath and remove the top layer.  
+> Dremel would be handy to smooth the bottom of the newly made hole.  
+> Making a copper pad and soldering a wire is the next step.  
+> After you make a hole for the wire to go through the thumb cap, use thin double sided tape to hold it in place.  
+> Next step would be a bit more double sided tape and a circular plastic cover that would go over the copper pad.  
+> Valve used double sided tape and plastic cover so I don't see the reason we can't do the same.  
+> To keep the wire from moving around on the bottom side, it can be glued to the underside of thumb cap.  
+> You can go the same - route as Valve and make a small channel for the cable.  
+> I'd use soldering iron with a very small tip and about 200 °C to not melt it too fast.  
+> u/dvijetrecine
+
+[Original Comments On Reddit (It's slighly edited on this page)](https://www.reddit.com/r/SteamDeckModded/comments/1j2dgtm/comment/mfr2jgm/)
+
 ### Joystick grips
 - [Playvital](https://playvital.com/collections/steam-deck-thumb-grip)
 - [Skull&Co.](https://skullnco.com/collections/steam-deck/products/thumb-grip-set-for-steam-deck)
