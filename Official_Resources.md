@@ -1,5 +1,16 @@
 # Official Valve / Steam Resources
 
+## Steam Store
+- [Buy Steam Deck](https://store.steampowered.com/steamdeck)
+
+## [SteamDeck.com](https://www.steamdeck.com/en/)
+- [OLED Tech Specs](https://www.steamdeck.com/en/tech/oled)
+- [LCD Tech Specs](https://www.steamdeck.com/en/tech/deck)
+- [Dock Tech Specs](https://www.steamdeck.com/en/tech/dock)
+- [Software - Steam & SteamOS](https://www.steamdeck.com/en/software)
+- [Deck Verified - Game Compatibility Program](https://www.steamdeck.com/en/verified)
+- [FAQ](https://www.steamdeck.com/en/faq)
+
 ## Steam Support
 - [Steam Deck - Basic Use & Troubleshooting Guide](https://help.steampowered.com/en/faqs/view/69E3-14AF-9764-4C28)
 - [Steam Deck Recovery Instructions](https://help.steampowered.com/en/faqs/view/1b71-edf2-eb6d-2bb3)
@@ -8,13 +19,3 @@
 
 ## Steamworks
 - [Documentation - Steam Deck FAQ](https://partner.steamgames.com/doc/steamdeck/faq)
-
-## SteamDeck.com
-- [Steam Deck - Tech Specs (OLED)](https://www.steamdeck.com/en/tech/oled)
-- [Steam Deck - Tech Specs (LCD)](https://www.steamdeck.com/en/tech/deck)
-- [Steam Deck - Tech Specs (Dock)](https://www.steamdeck.com/en/tech/dock)
-- [Steam Deck - Software](https://www.steamdeck.com/en/software)
-- [Steam Deck - Verified](https://www.steamdeck.com/en/verified)
-
-## Steam Store
-- [Buy Steam Deck](https://store.steampowered.com/steamdeck)
