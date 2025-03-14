@@ -25,6 +25,9 @@
 F7A Revision Pads  
 ![F7A Revision Pads](../../Images/Measurements/Kenfixed_LCD_F7A_Pads.png)
 
+The one above the APU should be roughly 2mm thick, 7.5mm wide and 11mm in length.  
+Any of these measurements might not be perfect, give or take an extra 0.5mm.
+
 ### Diode Readings
 ![Diode Readings](../../Images/Measurements/KenFixed_LCD_OLED_Diode_Readings.png)
 
