@@ -1,4 +1,4 @@
-# Steam-Deck-FAQ
+# Steam Deck Frequently Asked Questions (FAQ)
 Answers for Frequently Asked Questions related to the Steam Deck.
 
 **No, we don't know when Steam Deck sales happen or when the Steam Deck 2 will release.**
@@ -35,6 +35,8 @@ Answers for Frequently Asked Questions related to the Steam Deck.
     - Asus ROG Ally (X)
     - Lenovo Legion Go
     - Playstation Portal
+    - MSI Claw
+    - Nintendo Switch (OLED / 2)
 - Consoles
     - PS5
     - Xbox Series S/X
@@ -44,6 +46,7 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - Previous Steam Deck Sales
     - LCD
     - OLED
+    - Dock
 - Non-Steam Platforms (Fanatical, Humble Bundle etc...)
 
 ## Accessories
