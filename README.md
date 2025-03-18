@@ -77,6 +77,7 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - Remote Play
 - SteamOS
 - Windows
+- Proton & Wine
 
 ## Gaming
 - [Does ***INSERT GAME'S NAME*** work under Linux / on Deck? + Deck Verified program](Game_Compability.md)
@@ -86,7 +87,13 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - [Top played games on Deck](https://store.steampowered.com/charts/steamdecktopplayed)
 - Recommendations
 
+## Other Use Cases
+- Desktop Mode
+- Connecting Laptop / Tablet / Other External Displays
+- Developing For The Steam Deck
+
 ## Other Resources / Communities
 - [Steam Deck Discord](https://discord.com/invite/steamdeck) + [Their FAQ](https://bit.ly/steamdeckfaq)
 - [r/SteamDeck](https://reddit.com/r/SteamDeck)
 - [Stanto.com](https://www.stanto.com)
+- [ProtonDB](https://protondb.com)
