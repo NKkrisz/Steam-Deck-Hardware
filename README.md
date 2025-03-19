@@ -67,7 +67,7 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - Battery and charging
 - Limitations
 - Remote Wake
-- [SSD Swap](https://steamdeck.guide/Markdown/Mods/Storage.html)
+- [SSD Swap](https://hardware.steamdeck.guide/Markdown/Mods/Storage.html)
 
 ## [Software](https://software.steamdeck.guide)
 - Decky (3rd party plugins)
