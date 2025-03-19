@@ -3,7 +3,7 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 
 **No, we don't know when Steam Deck sales happen or when the Steam Deck 2 will release.**
 
-## [Official Resources made by Valve / Steam](./Official_Resources.md)
+## [Official Resources made by Valve / Steam](Official_Resources.md)
 
 ## Is The Steam Deck A Good Choice For You?:
 - Pricing
@@ -49,9 +49,9 @@ Answers for Frequently Asked Questions related to the Steam Deck.
     - Dock
 - Non-Steam Platforms (Fanatical, Humble Bundle etc...)
 
-## Accessories
+## [Accessories](Accessories.md)
 - General Recommendations
-- [MicroSD Cards](https://nkkrisz.github.io/Steam-Deck-Hardware/Markdown/Mods/Storage.html)
+- [MicroSD Cards](https://hardware.steamdeck.guide/Markdown/Mods/Storage.html)
 - Back button extensions
 - Screen protectors
 - Thumbstick caps
@@ -60,18 +60,16 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - Cases
 - External monitors
 - VR headsets & AR / XR glasses
-- [Manufacturer list](Manufacturer_List.md)
+- [Manufacturer list](Accessories.md#manufacturer-list)
 
-## Hardware
-- [Steam Deck Hardware Knowledge Repository](https://nkkrisz.github.io/Steam-Deck-Hardware/)
+## [Hardware](https://hardware.steamdeck.guide)
 - Differences between LCD and OLED Deck
 - Battery and charging
 - Limitations
 - Remote Wake
-- [SSD Swap](https://nkkrisz.github.io/Steam-Deck-Hardware/Markdown/Mods/Storage.html)
+- [SSD Swap](https://steamdeck.guide/Markdown/Mods/Storage.html)
 
-## Software
-- [Steam Deck Software Knowledge Repository](https://nkkrisz.github.io/Steam-Deck-Software/)
+## [Software](https://software.steamdeck.guide)
 - Decky (3rd party plugins)
 - Emulation (eg. Emudeck)
 - Remote Play
@@ -80,8 +78,8 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - Proton & Wine
 
 ## Gaming
-- [Does ***INSERT GAME'S NAME*** work under Linux / on Deck? + Deck Verified program](Game_Compability.md)
-- [Other storefronts / launchers](Launchers.md)
+- [Does ***INSERT GAME'S NAME*** work under Linux / on Deck? + Deck Verified program](Gaming.md#game-compatibility)
+- [Game Launchers & Accessing Other Stores](Gaming.md#game-launchers--accessing-other-stores)
 - Game / Quick Access Menu (QAM) settings
 - Steam Input / Controller Templates
 - [Top played games on Deck](https://store.steampowered.com/charts/steamdecktopplayed)
@@ -96,4 +94,3 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - [Steam Deck Discord](https://discord.com/invite/steamdeck) + [Their FAQ](https://bit.ly/steamdeckfaq)
 - [r/SteamDeck](https://reddit.com/r/SteamDeck)
 - [Stanto.com](https://www.stanto.com)
-- [ProtonDB](https://protondb.com)

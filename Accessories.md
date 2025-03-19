@@ -1,4 +1,6 @@
-# Accessory manufacturer list:
+# Accessories For The Steam Deck
+
+## Manufacturer List
 - Valve / Steam:
     - Steam Deck Dock
     - Steam Controller
