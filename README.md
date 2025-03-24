@@ -55,11 +55,13 @@
 |![White Limited Edition](./Images/OLED/Kenfixed_OLED_White_LE-Removebg.png) | **White Limited Edition - Some smaller changes are being introduced** |
 
 ### More Information About Both Can Be Found Here
-- Specifications: [LCD](https://www.steamdeck.com/en/tech/deck) | [OLED](https://www.steamdeck.com/en/tech/oled)
-- Revisions And Differences: [LCD](./Markdown/Revisions/LCD_Revisions.md) | [OLED](./Markdown/Revisions/OLED_Revisions.md)
-- Analysis Of Screen PWM Flicker & Visual Fatigue: [LCD](https://www.reddit.com/r/SteamDeck/comments/17yf90o/analysis_of_the_pwm_of_the_steam_deck_lcd_screen/) | [OLED](https://www.reddit.com/r/SteamDeck/comments/1882kys/analysis_of_the_pwmflickervisual_fatigue_of_the/)
-- [Comparison Video Between LCD And OLED Deck Components](https://www.youtube.com/watch?v=9jhRh11bTRA)
-- [Comparison Video Between LCD And OLED Deck Input Lag](https://www.youtube.com/watch?v=LkrV6VlGPIE)
+|Detail|LCD|OLED|
+|---|---|---|
+| Specifications | [LCD](https://www.steamdeck.com/en/tech/deck) | [OLED](https://www.steamdeck.com/en/tech/oled) |
+| Revisions And Differences | [LCD](./Markdown/Revisions/LCD_Revisions.md) | [OLED](./Markdown/Revisions/OLED_Revisions.md) |
+| Analysis Of Screen PWM Flicker & Visual Fatigue | [LCD](https://www.reddit.com/r/SteamDeck/comments/17yf90o/analysis_of_the_pwm_of_the_steam_deck_lcd_screen/) | [OLED](https://www.reddit.com/r/SteamDeck/comments/1882kys/analysis_of_the_pwmflickervisual_fatigue_of_the/) |
+|[Comparison Video Between LCD And OLED Deck Components](https://www.youtube.com/watch?v=9jhRh11bTRA)|
+|[Comparison Video Between LCD And OLED Deck Input Lag](https://www.youtube.com/watch?v=LkrV6VlGPIE)|
 
 ## [🧰 Recommended Tools For Repairing / Modding](./Markdown/Other/Tools.md)
 
