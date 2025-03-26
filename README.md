@@ -1,7 +1,7 @@
 # Steam Deck Frequently Asked Questions (FAQ)
 Answers for Frequently Asked Questions related to the Steam Deck.
 
-**No, we don't know when Steam Deck sales happen or when the Steam Deck 2 will release.**
+**We don't know when Steam Deck sales, refurbished re-stocks or when the Steam Deck 2 release will happen.**
 
 ## [Official Resources made by Valve / Steam](Official_Resources.md)
 
@@ -27,6 +27,12 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - Other uses
     - Media consumption, doing work etc...
         - Might benefit from a larger screen, built in keyboard or more ports which the Steam Deck lacks (unless a hub / dock is used)
+
+## New Or Refurbished?
+- Both have warranties
+- Refurbished stock usually gets sold out pretty fast and a lot of time can pass between re-stocks
+- Refurbished offers best value though local used market could go even lower depending on region
+- Refurbished comes in different packaging but most of the time the device itself looks like brand new (from user reports so far on r/SteamDeck)
 
 ## Comparisons
 - Laptop
