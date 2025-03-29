@@ -93,6 +93,7 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 
 ## Other Use Cases
 - Desktop Mode
+- [Using Steam Deck As A Controller](https://github.com/HelloThisIsFlo/Deckpad)
 - Connecting Laptop / Tablet / Other External Displays
 - Developing For The Steam Deck
 
