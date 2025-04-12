@@ -153,7 +153,8 @@
 - **Get pictures of all LCD** & OLED **components (all sides)**
 - **DIY Hall-effect / TMR joysticks research and testing**
 - **Get DeckSight (LCD to OLED swap) and test it**
-- **Make a cool [main page](https://steamdeck.guide) for all the guides**
+- **Add prototype & mysterious orange case pictures**
+- Change to monorepo?
 - Update old / add new info into Markdown files:
     - Carrying Cases
     - Other things...
