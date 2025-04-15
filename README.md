@@ -153,18 +153,22 @@
 - **Get pictures of all LCD** & OLED **components (all sides)**
 - **DIY Hall-effect / TMR joysticks research and testing**
 - **Get DeckSight (LCD to OLED swap) and test it**
-- **Add prototype & mysterious orange case pictures**
-- Change to monorepo?
+- **Change to monorepo?**
+    - Rework README
+    - Rework File Structure
+    - Reword Domain Stuff
+    - Rework GitHub & Repository Details
+    - Move TODO to GitHub Projects?
 - Update old / add new info into Markdown files:
     - Carrying Cases
     - Other things...
 - Add images of packaging (worldwide and Japanese versions)
 - Remove background of Steam Deck revision pictures manually
 - Separate EV2 and early production LCD Steam Decks in comparison table
-- OLED battery swap into LCD Deck? ([Currently doesn't work](https://www.ifixit.com/Answers/View/823192/Could+I+put+the+new+Steam+Deck+OLED+battery+into+the+original+Deck))
+- OLED battery swap into LCD Deck? ([Currently doesn't work - Most likely a firmware modification is needed](https://www.ifixit.com/Answers/View/823192/Could+I+put+the+new+Steam+Deck+OLED+battery+into+the+original+Deck))
 - Type A (MEDA) vs Type B (MHDA) LCD joysticks comparison ([difference in capacitive touch and microcontroller?](https://www.ifixit.com/Guide/Steam+Deck+Left+Thumbstick+Replacement/148896))
 - Compile useful commands and tips for hardware modding
 - Get more info about panel types (BOE, Samsung etc...)
 - Get a list of all stock SSDs used in Steam Decks
-- Redo file structure (better management for images)
 - Optimize images to be smaller in file size for faster loading
+- Add other places to get / details about replacement parts (eg. trigger springs, USB-C port)
