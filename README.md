@@ -124,16 +124,28 @@
 ## 🛠️ Replacement Parts
 
 ### [iFixit (Official Valve partner)](https://store.steampowered.com/news/app/1675200/view/3216144458749237711)
-- [iFixit US](https://www.ifixit.com/Parts/Steam_Deck)
-- [iFixit EU](https://eustore.ifixit.com/collections/steam-deck-parts)
-- [iFixit AUS](https://australia.ifixit.com/collections/steam-deck-parts)
 
-### Do note that not everything is available in the iFixit stores (different regions), this includes:
-- Trackpads
-- Mother / Daughterboards
-- Ribbon Cables
-- Inner Screws (Backplate ones are available)
-- Original / Stock Carrying Cases
+- iFixit Regions:
+    - [iFixit US](https://www.ifixit.com/Parts/Steam_Deck)
+    - [iFixit CA](https://www.ifixit.com/en-ca/Parts/Steam_Deck)
+    - [iFixit AUS](https://www.ifixit.com/en-au/Parts/Steam_Deck)
+    - [iFixit GB](https://www.ifixit.com/en-gb/Parts/Steam_Deck)
+    - [iFixit EU](https://www.ifixit.com/en-eu/Parts/Steam_Deck)
+    - [iFixit FR](https://www.ifixit.com/fr-fr/Parts/Steam_Deck)
+    - [iFixit DE](https://www.ifixit.com/de-de/Parts/Steam_Deck)
+
+- Do note that not everything is available in the iFixit stores, like:
+    - Trackpads
+    - Mother / Daughterboards
+    - Ribbon Cables
+    - Inner Screws (Backplate ones are available)
+    - Original / Stock Carrying Cases
+
+- If you can't order from or the part you're looking for is out of stock on iFixit try these places:
+    - Steam Support (They can do repairs and sometimes send carrying cases and chargers)
+    - Local technicians
+    - AliExpress
+    - Ebay
 
 ## 👀 Interesting Stuff And Other Tips
 - Bluetooth wake is being implemented for LCD models (previously only available to OLED models)!
