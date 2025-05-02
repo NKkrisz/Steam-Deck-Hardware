@@ -1,8 +1,15 @@
 # Steam Deck Hardware Guide
-**Information and guides about Steam Deck hardware and modifications - [Steam Deck Software Guide (W.I.P)](https://software.steamdeck.guide)**
+
+## ⚠️ Combining Hardware, Software And FAQ Into A Single Site In Progress
+
+**Information and guides about Steam Deck hardware and modifications** - ~~[Steam Deck Software Guide (W.I.P)](https://software.steamdeck.guide)~~
+
 **This project isn't associated with Valve and modifying your device will / may void your warranty.**
+
 **This repository is for educational purposes and may contain mistakes, you're responsible for your own device.**
+
 **None of the links are affiliated in any way or are included because of external payment.**
+
 **If you see a mistake or you're the owner of some content mentioned in this repository and want it removed please [contact me (NKkrisz)](https://linktr.ee/nkkrisz)**
 
 ## 🧑‍💻 [Credits And Sources](./Markdown/Repository/Credits.md) | [GitHub Repository](https://github.com/NKkrisz/Steam-Deck-Hardware) | [How To Contribute](./Markdown/Repository/Contribute.md)
