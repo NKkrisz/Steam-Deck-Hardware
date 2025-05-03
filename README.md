@@ -1,6 +1,8 @@
 # Steam-Deck-Software
 SteamOS and Steam Deck software mods.
 
+## ⚠️ Content here will be / has been merged into a single repository for easier maintainability and contributions
+
 ## Operating Systems
 
 - [SteamOS / Steam Deck Recovery Instructions](https://help.steampowered.com/en/faqs/view/1b71-edf2-eb6d-2bb3) - Don't install on non Steam Deck devices as this isn't a general release!
