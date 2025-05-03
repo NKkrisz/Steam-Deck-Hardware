@@ -3,6 +3,8 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 
 **We don't know when Steam Deck sales, refurbished re-stocks or when the Steam Deck 2 release will happen.**
 
+## ⚠️ Content here will be / has been merged into a single repository for easier maintainability and contributions
+
 ## [Official Resources made by Valve / Steam](Official_Resources.md)
 
 ## Is The Steam Deck A Good Choice For You?:
