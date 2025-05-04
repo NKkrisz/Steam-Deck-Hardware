@@ -5,7 +5,7 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 
 ## ⚠️ Content here will be / has been merged into a single repository for easier maintainability and contributions
 
-## [Official Resources made by Valve / Steam](Official_Resources.md)
+## [Official Resources made by Valve / Steam](./Markdown/Official_Resources.md)
 
 ## Is The Steam Deck A Good Choice For You?:
 - Pricing
@@ -57,7 +57,7 @@ Answers for Frequently Asked Questions related to the Steam Deck.
     - Dock
 - Non-Steam Platforms (Fanatical, Humble Bundle etc...)
 
-## [Accessories](Accessories.md)
+## [Accessories](./Markdown/Accessories.md)
 - General Recommendations
 - [MicroSD Cards](https://hardware.steamdeck.guide/Markdown/Mods/Storage.html)
 - Back button extensions
@@ -68,7 +68,7 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - Cases
 - External monitors
 - VR headsets & AR / XR glasses
-- [Manufacturer list](Accessories.md#manufacturer-list)
+- [Manufacturer list](./Markdown/Accessories.md#manufacturer-list)
 
 ## [Hardware](https://hardware.steamdeck.guide)
 - Differences between LCD and OLED Deck
@@ -86,8 +86,8 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - Proton & Wine
 
 ## Gaming
-- [Does ***INSERT GAME'S NAME*** work under Linux / on Deck? + Deck Verified program](Gaming.md#game-compatibility)
-- [Game Launchers & Accessing Other Stores](Gaming.md#game-launchers--accessing-other-stores)
+- [Does ***INSERT GAME'S NAME*** work under Linux / on Deck? + Deck Verified program](./Markdown/Gaming.md#game-compatibility)
+- [Game Launchers & Accessing Other Stores](./Markdown/Gaming.md#game-launchers--accessing-other-stores)
 - Game / Quick Access Menu (QAM) settings
 - Steam Input / Controller Templates
 - [Top played games on Deck](https://store.steampowered.com/charts/steamdecktopplayed)
