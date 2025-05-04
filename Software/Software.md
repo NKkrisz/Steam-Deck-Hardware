@@ -1,7 +1,5 @@
-# Steam-Deck-Software
+# Software
 SteamOS and Steam Deck software mods.
-
-## ⚠️ Content here will be / has been merged into a single repository for easier maintainability and contributions
 
 ## Operating Systems
 

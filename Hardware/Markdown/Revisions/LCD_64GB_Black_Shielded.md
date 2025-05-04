@@ -36,13 +36,15 @@
     - L - Left
     - R - Right
 
-## Find The Info Here Useful? Here's How To Support Me And This Repository!
-- Consider donating by clicking the button below:  
+## How To Support Me (NKkrisz) And This Repository
+- Consider donating by clicking the button below:
+
 [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nkkrisz)
-    - By doing so, I might be able to:
-        - Get a second used / faulty LCD Deck
-        - Upgrade to an OLED Deck which would enable further research
-        - Buy more expensive hardware for testing, modifying or documenting Steam Deck stuff
+
+- By doing so, I might be able to:
+    - Get a second used / faulty LCD Deck
+    - Upgrade to an OLED Deck which would enable further research
+    - Buy more expensive hardware for testing, modifying or documenting Steam Deck stuff
 - Contribute with new content or fix mistakes!
 
 ### Backplate

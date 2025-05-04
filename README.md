@@ -1,9 +1,30 @@
-# Steam Deck Guide
+# [Steam Deck Guide](https://main.steamdeck.guide)
 
-## Site Rework In Progress, Please Use These Links Below:
+**Information and guides about the Steam Deck and available modifications.**
 
-### [FAQ](FAQ/Old_FAQ.md)
+**This project isn't associated with Valve and modifying your device may void your warranty.**
 
-### [Hardware](Hardware/Old_Hardware_Guide.md)
+**This repository is for educational purposes and may contain mistakes, you're responsible for your own device.**
 
-### [Software](Software/Old_Software_Guide.md)
+**None of the links are affiliated in any way or are included because of external payment.**
+
+**If you see a mistake or you're the owner of some content mentioned in this repository and want it removed please [contact me (NKkrisz)](https://linktr.ee/nkkrisz)**
+
+## 📜 [Credits And Sources](./Repository/Markdown/Credits.md) | [GitHub Repository](https://github.com/NKkrisz/Steam-Deck-Guide) | [How To Contribute](./Repository/Markdown/Contribute.md)
+
+## 💵 How To Support Me (NKkrisz) And This Repository
+- Consider donating by clicking the button below:
+
+[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nkkrisz)
+
+- By doing so, I might be able to:
+    - Get a second used / faulty LCD Deck
+    - Upgrade to an OLED Deck which would enable further research
+    - Buy more expensive hardware for testing, modifying or documenting Steam Deck stuff
+- Contribute with new content or fix mistakes!
+
+## [🆘 Start Here! - Frequently Asked Questions (FAQ)](FAQ/FAQ.md)
+
+## [🧑‍🔧 Hardware Guides And Information](Hardware/Hardware.md)
+
+## [🧑‍💻 Software Guides And Information](Software/Software.md)
