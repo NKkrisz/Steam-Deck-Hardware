@@ -49,21 +49,26 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 
 ## Sales
 - [Steam Sales](https://steamdb.info/sales/history/)
+- Non-Steam Platforms (Fanatical, Humble Bundle etc...)
 - Previous Steam Deck Sales
     - LCD
     - OLED
     - Dock
-- Non-Steam Platforms (Fanatical, Humble Bundle etc...)
 
 ## [Accessories](./Markdown/Accessories.md)
 - General Recommendations
-- [MicroSD Cards](https://hardware.steamdeck.guide/Markdown/Mods/Storage.html)
+- MicroSD Cards
 - Back button extensions
 - Screen protectors
 - Thumbstick caps
 - Controllers
 - Docks
 - Cases
+- Keyboards
+- Mouse
+- Controllers
+- Powerbanks
+- Chargers
 - External monitors
 - VR headsets & AR / XR glasses
 - [Manufacturer list](./Markdown/Accessories.md#manufacturer-list)
@@ -73,12 +78,13 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - Battery and charging
 - Limitations
 - Remote Wake
-- [SSD Swap](https://hardware.steamdeck.guide/Markdown/Mods/Storage.html)
+- SSD Swap
 
 ## [Software](https://software.steamdeck.guide)
 - Decky (3rd party plugins)
 - Emulation (eg. Emudeck)
 - Remote Play
+- Cloud Gaming
 - SteamOS
 - Windows
 - Proton & Wine
