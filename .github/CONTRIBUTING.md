@@ -1,4 +1,4 @@
-# Contribution Guidelines / Rules
+# Contribution Guidelines
 
 ## Information Rules
 - List the source for the information

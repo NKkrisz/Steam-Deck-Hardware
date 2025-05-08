@@ -10,7 +10,7 @@
 
 **If you see a mistake or you're the owner of some content mentioned in this repository and want it removed please [contact me (NKkrisz)](https://linktr.ee/nkkrisz)**
 
-## 📜 [Credits And Sources](./Repository/Markdown/Credits.md) | [GitHub Repository](https://github.com/NKkrisz/Steam-Deck-Guide) | [How To Contribute](./Repository/Markdown/Contribute.md)
+## 📜 [Credits And Sources](./Repository/Markdown/Credits.md) | [GitHub Repository](https://github.com/NKkrisz/Steam-Deck-Guide) | [How To Contribute](./.github/CONTRIBUTING.md)
 
 ## 💵 How To Support Me (NKkrisz) And This Repository
 - Consider donating by clicking the button below:
